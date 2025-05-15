@@ -1,7 +1,7 @@
 @extends('layouts.web')
 
 @section('content')
-  <div class="body">
+	<div class="body">
 		<header id="header" class="header-transparent header-effect-shrink"
 			data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyChangeLogo': true, 'stickyStartAt': 70, 'stickyHeaderContainerHeight': 70}">
 			<div class="header-body header-body-bottom-border border-top-0">
@@ -11,24 +11,23 @@
 							<div class="header-column justify-content-start">
 								<div class="header-row">
 									<ul class="list list-unstyled list-inline mb-0">
-										<li
-											class="list-inline-item text-color-dark me-md-4 mb-0 d-none d-md-inline-block">
-											<span class="text-color-default text-2">Any Questions?</span>
+										<li class="list-inline-item text-color-dark me-md-4 mb-0 d-none d-md-inline-block">
+											<span class="text-color-default text-2">Асуулт байна уу?</span>
 										</li>
 										<li class="list-inline-item me-4 mb-0">
 											<i
 												class="icons icon-phone text-color-primary text-4 position-relative top-4 me-1"></i>
 											<a href="tel:+1234567890"
 												class="text-color-secondary text-color-hover-primary font-weight-semibold text-decoration-none text-2">
-												(800) 123-4567
+												(+976) 99991573, 99907748, 89909010
 											</a>
 										</li>
 										<li class="list-inline-item me-4 mb-0 d-none d-md-inline-block">
 											<i
 												class="icons icon-envelope text-color-primary text-4 position-relative top-4 me-1"></i>
-											<a href="mailto:porto@portotheme.com"
+											<a
 												class="text-color-secondary text-color-hover-primary font-weight-semibold text-decoration-none text-2">
-												porto@portotheme.com
+												hanzacademy1@gmail.com
 											</a>
 										</li>
 									</ul>
@@ -40,9 +39,10 @@
 										<li class="list-inline-item mb-0">
 											<i
 												class="icons icon-user text-color-primary text-4 position-relative top-4 me-1"></i>
-											<a href="page-login.html"
-												class="text-color-secondary text-color-hover-primary font-weight-semibold text-decoration-none text-2">
-												Login / Register
+											<a href="https://www.facebook.com/KhanzEducationCenter"
+												class="text-color-secondary text-color-hover-primary font-weight-semibold text-decoration-none text-2"
+												target="_blank" rel="noopener noreferrer">
+												facebook
 											</a>
 										</li>
 									</ul>
@@ -57,8 +57,8 @@
 							<div class="header-row">
 								<div class="header-logo">
 									<a href="demo-education.html">
-										<img src="img/demos/education/logo.png" class="img-fluid" width="123"
-											height="49" alt="" />
+										<img src="img/demos/education/logo.png" class="img-fluid" width="140" height="150"
+											alt="" />
 									</a>
 								</div>
 							</div>
@@ -139,37 +139,43 @@
 
 							<!-- Carousel Slide 1 -->
 							<div class="owl-item position-relative overflow-hidden">
-								<div class="background-image-wrapper custom-bg-color-grey-1 position-absolute top-0 left-0 right-0 bottom-0"
-									data-appear-animation="kenBurnsToLeft" data-appear-animation-duration="30s"
+								<div class="background-image custom-bg-color-grey-1 position-absolute top-0 left-0 right-0 bottom-0"
+									data-appear-animation="kenBurnsToLeft" data-appear-animation-duration="10s"
 									data-plugin-options="{'minWindowWidth': 0}" data-carousel-onchange-show
-									style="background-image: url(img/demos/education/slides/slide-1-bg.jpg); background-size: cover; background-position: 100% 100%;">
+									style="background-image: url(img/demos/education/slides/slide-1-bg.jpg); background-size: cover; background-position: 80% 90%;">
 								</div>
 
 								<img src="img/demos/education/slides/slide-1-1.png"
 									class="img-fluid position-absolute bottom-0 d-none d-lg-block custom-slider-el-1 appear-animation"
+									style="width: 400px; border: 4px solid #333; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"
 									data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600" alt="" />
 
 								<div class="container h-100 r-relative z-index-1">
 									<div class="row h-100 align-items-center">
 										<div class="col">
-											<div class="text-end float-lg-start custom-slider-text-block">
-												<h2 class="text-color-secondary font-weight-extra-bold mb-4 custom-slider-text-1 p-relative z-index-1 appear-animation"
+											<div class="text-start custom-slider-text-block">
+												<h2 class="text-color-secondary font-weight-extra-bold mb-1 custom-slider-text-1 p-relative z-index-1 appear-animation"
 													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="800"><em>#</em>letslearn</h2>
-												<h2 class="text-color-default font-weight-semi-bold mb-3 text-5 p-relative z-index-1 appear-animation"
-													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="1000">Complete Solution For Your
-													Education Needs!</h2>
-												<a href="#courses" data-hash data-hash-offset="0"
-													data-hash-offset-lg="70"
+													data-appear-animation-delay="500">Мэдлэгийн
+													<hr>төв
+												</h2>
+
+												<h2 class="font-weight-semi-bold mb-3 text-5 p-relative z-index-1 appear-animation"
+													style="color: white" data-appear-animation="fadeInUpShorter"
+													data-appear-animation-delay="1000">Өдөр бүр нэг шат ахицгаая</h2>
+
+												<a href="#courses" data-hash data-hash-offset="0" data-hash-offset-lg="70"
 													class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 appear-animation"
 													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="1200">GET STARTED</a>
+													data-appear-animation-delay="1200">Өсөлтийн зам эхэллээ!</a>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
+
+
+
 
 							<!-- Carousel Slide 2 -->
 							<div class="owl-item position-relative overflow-hidden">
@@ -181,6 +187,7 @@
 
 								<img src="img/demos/education/slides/slide-2-1.png"
 									class="img-fluid position-absolute bottom-0 d-none d-lg-block custom-slider-el-2 appear-animation"
+									style="width: 400px; border: 4px solid #333; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"
 									data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600" alt="" />
 
 								<div class="container h-100 r-relative z-index-1">
@@ -189,16 +196,17 @@
 											<div class="float-lg-end custom-slider-text-block text-end">
 												<h2 class="text-color-secondary font-weight-extra-bold mb-4 custom-slider-text-1 p-relative z-index-1 appear-animation"
 													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="800"><em>#</em>yourfuture</h2>
-												<h2 class="text-color-default font-weight-semi-bold mb-3 text-5 p-relative z-index-1 appear-animation"
-													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="1000">Complete Solution For Your
-													Education Needs!</h2>
-												<a href="#courses" data-hash data-hash-offset="0"
-													data-hash-offset-lg="70"
+													data-appear-animation-delay="800">чиний
+													<hr>ирээдүй
+												</h2>
+												<h2 class="font-weight-semi-bold mb-3 text-5 p-relative z-index-1 appear-animation"
+													style="color: white" data-appear-animation="fadeInUpShorter"
+													data-appear-animation-delay="1000">Таны боловсролын хэрэгцээндзориулсан
+													иж бүрэн шийдэл!</h2>
+												<a href="#courses" data-hash data-hash-offset="0" data-hash-offset-lg="70"
 													class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 appear-animation"
 													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="1200">GET STARTED</a>
+													data-appear-animation-delay="1200">Өсөлтийн зам эхэллээ!</a>
 											</div>
 										</div>
 									</div>
@@ -230,10 +238,10 @@
 										src="img/demos/education/icons/icon-web-search-engine.svg" alt="" data-icon
 										data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
 								</div>
-								<div class="feature-box-info appear-animation"
-									data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="150">
-									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Step 1</p>
-									<h4 class="mb-0 text-color-secondary">Find Your Course</h4>
+								<div class="feature-box-info appear-animation" data-appear-animation="fadeInLeftShorterPlus"
+									data-appear-animation-delay="150">
+									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Алхам 1</p>
+									<h4 class="mb-0 text-color-secondary">Өөрийнхөө хөтөлбөрийг ол.</h4>
 								</div>
 							</div>
 
@@ -251,10 +259,10 @@
 										src="img/demos/education/icons/icon-list.svg" alt="" data-icon
 										data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 								</div>
-								<div class="feature-box-info appear-animation"
-									data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="300">
-									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Step 2</p>
-									<h4 class="mb-0 text-color-secondary">Make a Register</h4>
+								<div class="feature-box-info appear-animation" data-appear-animation="fadeInLeftShorterPlus"
+									data-appear-animation-delay="300">
+									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Алхам 2</p>
+									<h4 class="mb-0 text-color-secondary">Бүртгэл хийх.</h4>
 								</div>
 							</div>
 
@@ -272,10 +280,10 @@
 										src="img/demos/education/icons/icon-laptop.svg" alt="" data-icon
 										data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
 								</div>
-								<div class="feature-box-info appear-animation"
-									data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="450">
-									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Step 3</p>
-									<h4 class="mb-0 text-color-secondary">Enjoy and Learn</h4>
+								<div class="feature-box-info appear-animation" data-appear-animation="fadeInLeftShorterPlus"
+									data-appear-animation-delay="450">
+									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Алхам 3</p>
+									<h4 class="mb-0 text-color-secondary">Сэтгэл хангалуун суралц.</h4>
 								</div>
 							</div>
 
@@ -301,7 +309,7 @@
 						<div class="col text-center">
 							<div class="overflow-hidden">
 								<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-3-5 appear-animation"
-									data-appear-animation="maskUp" data-appear-animation-delay="300">Popular Courses
+									data-appear-animation="maskUp" data-appear-animation-delay="300">Хүмүүст хамгийн их сонгогдсон сургалтууд
 								</h2>
 							</div>
 						</div>
@@ -328,16 +336,12 @@
 										<div class="card-body">
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
-													href="demo-education-courses-details.html"
-													class="text-color-secondary" title="">Course Name Example</a></h4>
-
-											<div class="float-end">
-												<strong class="text-primary text-5">$79</strong>
-											</div>
+													href="demo-education-courses-details.html" class="text-color-secondary"
+													title="">HSK 1</a></h4>
 
 											<div class="text-2">
-												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-user"></i> 123 </span>
+												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
+													123 </span>
 												<span class="d-inline-block pe-2"><i
 														class="far text-primary fa-comments"></i> 123</span>
 											</div>
@@ -361,16 +365,12 @@
 										<div class="card-body">
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
-													href="demo-education-courses-details.html"
-													class="text-color-secondary" title="">Course Name Example</a></h4>
-
-											<div class="float-end">
-												<strong class="text-primary text-5">$59</strong>
-											</div>
+													href="demo-education-courses-details.html" class="text-color-secondary"
+													title="">HSK 2</a></h4>
 
 											<div class="text-2">
-												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-user"></i> 123 </span>
+												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
+													123 </span>
 												<span class="d-inline-block pe-2"><i
 														class="far text-primary fa-comments"></i> 123</span>
 											</div>
@@ -394,16 +394,12 @@
 										<div class="card-body">
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
-													href="demo-education-courses-details.html"
-													class="text-color-secondary" title="">Course Name Example</a></h4>
-
-											<div class="float-end">
-												<strong class="text-primary text-5">$29</strong>
-											</div>
+													href="demo-education-courses-details.html" class="text-color-secondary"
+													title="">HSK 3</a></h4>
 
 											<div class="text-2">
-												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-user"></i> 123 </span>
+												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
+													123 </span>
 												<span class="d-inline-block pe-2"><i
 														class="far text-primary fa-comments"></i> 123</span>
 											</div>
@@ -427,16 +423,12 @@
 										<div class="card-body">
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
-													href="demo-education-courses-details.html"
-													class="text-color-secondary" title="">Course Name Example</a></h4>
-
-											<div class="float-end">
-												<strong class="text-primary text-5">$29</strong>
-											</div>
+													href="demo-education-courses-details.html" class="text-color-secondary"
+													title="">HSK 4</a></h4>	
 
 											<div class="text-2">
-												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-user"></i> 123 </span>
+												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
+													123 </span>
 												<span class="d-inline-block pe-2"><i
 														class="far text-primary fa-comments"></i> 123</span>
 											</div>
@@ -461,8 +453,8 @@
 				<div class="container my-4">
 					<div class="row mb-4">
 						<div class="col-lg-6">
-							<div class="card border-radius-0 appear-animation"
-								data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="350">
+							<div class="card border-radius-0 appear-animation" data-appear-animation="fadeInUpShorterPlus"
+								data-appear-animation-delay="350">
 								<div class="card-body py-5 my-2">
 
 									<div class="row">
@@ -500,11 +492,9 @@
 													</div>
 													<div class="form-group col-md-6 mb-2">
 														<input type="text" value=""
-															data-msg-required="Please enter your last name."
-															maxlength="100"
+															data-msg-required="Please enter your last name." maxlength="100"
 															class="form-control p-3 bg-color-tertiary custom-border-start-1"
-															name="lastName" id="lastName" placeholder="LAST NAME*"
-															required>
+															name="lastName" id="lastName" placeholder="LAST NAME*" required>
 													</div>
 												</div>
 												<div class="row g-2">
@@ -780,8 +770,7 @@
 								<div class="col">
 									<div class="feature-box feature-box-style-5">
 										<div class="feature-box-icon appear-animation"
-											data-appear-animation="fadeInLeftShorterPlus"
-											data-appear-animation-delay="100">
+											data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="100">
 											<img class="icon-animated" width="50"
 												src="img/demos/education/icons/icon-medal.svg" alt="" data-icon
 												data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
@@ -805,8 +794,7 @@
 								<div class="col">
 									<div class="feature-box feature-box-style-5">
 										<div class="feature-box-icon appear-animation"
-											data-appear-animation="fadeInLeftShorterPlus"
-											data-appear-animation-delay="200">
+											data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="200">
 											<img class="icon-animated" width="50"
 												src="img/demos/education/icons/icon-list.svg" alt="" data-icon
 												data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
@@ -830,8 +818,7 @@
 								<div class="col">
 									<div class="feature-box feature-box-style-5">
 										<div class="feature-box-icon appear-animation"
-											data-appear-animation="fadeInLeftShorterPlus"
-											data-appear-animation-delay="300">
+											data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="300">
 											<img class="icon-animated" width="50"
 												src="img/demos/education/icons/icon-badge.svg" alt="" data-icon
 												data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
