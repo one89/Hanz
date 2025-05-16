@@ -309,7 +309,8 @@
 						<div class="col text-center">
 							<div class="overflow-hidden">
 								<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-3-5 appear-animation"
-									data-appear-animation="maskUp" data-appear-animation-delay="300">Хүмүүст хамгийн их сонгогдсон сургалтууд
+									data-appear-animation="maskUp" data-appear-animation-delay="300">Хүмүүст хамгийн их
+									сонгогдсон сургалтууд
 								</h2>
 							</div>
 						</div>
@@ -337,7 +338,7 @@
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
-													title="">HSK 1</a></h4>
+													title="">анхан шат</a></h4>
 
 											<div class="text-2">
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
@@ -366,7 +367,7 @@
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
-													title="">HSK 2</a></h4>
+													title="">анхан дунд шат</a></h4>
 
 											<div class="text-2">
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
@@ -395,7 +396,7 @@
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
-													title="">HSK 3</a></h4>
+													title="">дунд шат</a></h4>
 
 											<div class="text-2">
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
@@ -424,7 +425,7 @@
 											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
-													title="">HSK 4</a></h4>	
+													title="">дунд ахисан шат</a></h4>
 
 											<div class="text-2">
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
@@ -442,8 +443,8 @@
 						<div class="col text-center">
 							<a href="demo-education-courses.html"
 								class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 mt-4 mb-2 appear-animation"
-								data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="350">VIEW
-								ALL</a>
+								data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="350">БҮГДИЙГ
+								ХАРАХ</a>
 						</div>
 					</div>
 				</div>
@@ -462,8 +463,8 @@
 											<div class="text-center">
 												<h2
 													class="text-color-secondary font-weight-semi-bold text-8 line-height-1 mb-2">
-													Register Now</h2>
-												<p class="text-4">Get <strong>50% OFF</strong> For All Courses</p>
+													Одоо бүртгүүл</h2>
+												<p class="text-4">50% ХЯМДРАЛТАЙ</strong> Бүх курсуудад зориулсан</p>
 											</div>
 											<div class="countdown text-color-primary font-weight-semibold custom-countdown-style-1 justify-content-center mb-4 py-2 px-2"
 												data-plugin-countdown
@@ -474,11 +475,11 @@
 												method="POST">
 
 												<div class="contact-form-success alert alert-success d-none mt-4">
-													<strong>Success!</strong> Your register has been sent to us.
+													<strong>Амжилттай!</strong> Таны бүртгэл бидэнд илгээгдлээ.
 												</div>
 
 												<div class="contact-form-error alert alert-danger d-none mt-4">
-													<strong>Error!</strong> There was an error sending your register.
+													<strong>Алдаа гарлаа!</strong> Таны бүртгэлийг илгээх үед алдаа гарлаа.
 													<span class="mail-error-message text-1 d-block"></span>
 												</div>
 
@@ -487,14 +488,13 @@
 														<input type="text" value=""
 															data-msg-required="Please enter your first name."
 															maxlength="100" class="form-control p-3 bg-color-tertiary"
-															name="firstName" id="firstName" placeholder="FIRST NAME*"
-															required>
+															name="firstName" id="firstName" placeholder="Овог" required>
 													</div>
 													<div class="form-group col-md-6 mb-2">
 														<input type="text" value=""
 															data-msg-required="Please enter your last name." maxlength="100"
 															class="form-control p-3 bg-color-tertiary custom-border-start-1"
-															name="lastName" id="lastName" placeholder="LAST NAME*" required>
+															name="lastName" id="lastName" placeholder="Нэр*" required>
 													</div>
 												</div>
 												<div class="row g-2">
@@ -502,7 +502,7 @@
 														<input type="text" value=""
 															data-msg-required="Please enter your phone number."
 															maxlength="100" class="form-control p-3 bg-color-tertiary"
-															name="phone" id="phone" placeholder="PHONE*" required>
+															name="phone" id="phone" placeholder="Утасны дугаар*" required>
 													</div>
 													<div class="form-group col-md-6 mb-2">
 														<input type="email" value=""
@@ -515,7 +515,7 @@
 												</div>
 												<div class="row g-2">
 													<div class="form-group col mb-0">
-														<input type="submit" value="GET IT NOW"
+														<input type="submit" value="Бүү хожимдоорой"
 															class="btn btn-secondary font-weight-bold d-block btn-px-5 btn-py-3 w-100"
 															data-loading-text="Loading...">
 													</div>
@@ -548,7 +548,7 @@
 						<div class="col text-center">
 							<div class="overflow-hidden">
 								<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-3-5 appear-animation"
-									data-appear-animation="maskUp" data-appear-animation-delay="300">What Students Say
+									data-appear-animation="maskUp" data-appear-animation-delay="300">Сурагчдын сэтгэгдэл
 								</h2>
 							</div>
 						</div>
@@ -565,12 +565,16 @@
 											<img src="img/clients/client-1.jpg" class="img-fluid rounded-circle" alt="">
 										</div>
 										<blockquote>
-											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sed eget risus porta,
-												tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et
-												magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus,
-												convallis non consectetur sed, pharetra nec ex.</p>
+											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">Энэ хичээлийг
+												эхлэхээсээ өмнө би хятад хэл, соёлын талаар тун бага мэдлэгтэй байсан.
+												Хөтөлбөр маш сайтар бүтэцтэй байсан бөгөөд эхлээд дуу авиа, энгийн хэлц
+												үгсээс эхэлж, дараа нь илүү нарийн дүрэм, өгүүлбэр үүсгэх чадварт шилжсэн.
+												Миний хамгийн ихээр үнэлсэн зүйл бол хичээл бүрт соёлын талаарх тайлбар
+												байсан юм — үг цээжлэхээс гадна тэдний ард буй уламжлал, түүхийг ойлгох
+												боломж олгосон. Багш нар тэвчээртэй, ойлгомжтой тайлбарладаг байсан бөгөөд
+												аливаа эргэлзээг үргэлж тайлбарлаж өгдөг байсан. Энэ курсын ачаар би
+												мандарин хэлээр энгийн яриа өрнүүлэхэд өөртөө итгэлтэй болсон ба Хятадын
+												баян соёлыг илүү гүнзгий үнэлдэг болсон.</p>
 										</blockquote>
 										<div class="testimonial-author">
 											<p><strong class="font-weight-bold">John Smith</strong></p>
@@ -584,12 +588,16 @@
 											<img src="img/clients/client-2.jpg" class="img-fluid rounded-circle" alt="">
 										</div>
 										<blockquote>
-											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sed eget risus porta,
-												tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et
-												magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus,
-												convallis non consectetur sed, pharetra nec ex.</p>
+											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">Хятад хэлний
+												авиануудыг зөв дуулах нь энэ хичээлийг эхлэхээсээ өмнөх миний хамгийн том
+												сорилтуудын нэг байлаа. Гэхдээ баяртайгаар хэлэхэд, хичээл олон дасгал,
+												санамжийн арга, тодорхой тайлбаруудыг өгсөн нь авиануудыг аймшигтай
+												санагдахаас аажмаар багасгасан. Мөн соёлын хэсгүүдийг нь их сонирхолтой олж
+												авсан — Жилийн дунд намрын баяр болон Хятадын шинэ жил зэрэг баяруудыг сурах
+												нь миний суралцлагыг хөгжилтэй, мартагдашгүй болгосон. Багш нар мэдлэгтэй
+												бөгөөд үргэлж асуулт асуухыг уриалдаг байсан нь намайг урам зоригтой байхад
+												тус болсон. Энэ курс надад хятад хэлээр ярих болон соёлын онцлогийг ойлгоход
+												сайн бэлтгэл болсон гэж бодож байна.</p>
 										</blockquote>
 										<div class="testimonial-author">
 											<p><strong class="font-weight-bold">John Smith</strong></p>
@@ -603,12 +611,15 @@
 											<img src="img/clients/client-3.jpg" class="img-fluid rounded-circle" alt="">
 										</div>
 										<blockquote>
-											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sed eget risus porta,
-												tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et
-												magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus,
-												convallis non consectetur sed, pharetra nec ex.</p>
+											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">Энэ хичээлд надад
+												онцгой санагдсан зүйл бол ямар зэрэгтэйгээр хичээлүүдийг гүнзгий оролцуулах
+												байлаа. Видео болон өгүүллэгийн элементүүд нь хичээлүүдийг амьдралтай,
+												ойлгоход хялбар болгосон. Би хятад уламжлал, ардын домог, баяруудын ач
+												холбогдлыг хэлний дадлага хамтдаа сурахыг ихэд таалагдсан. Мөн энэ курс маш
+												дэмжлэгтэй онлайн олон нийтийн талбартай байсан бөгөөд суралцагчид зөвлөмж
+												солилцож, асуулт асууж, эх хэлтэй хүмүүстэй дадлага хийж чаддаг байсан нь
+												миний мандарин хэлний хэрэглээнд итгэл нэмсэн. Нийтдээ хэл сурах ба соёлыг
+												үнэлэхийг холбосон баялаг туршлага болсон.</p>
 										</blockquote>
 										<div class="testimonial-author">
 											<p><strong class="font-weight-bold">John Smith</strong></p>
@@ -622,12 +633,15 @@
 											<img src="img/clients/client-4.jpg" class="img-fluid rounded-circle" alt="">
 										</div>
 										<blockquote>
-											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sed eget risus porta,
-												tincidunt turpis at, interdum tortor. Suspendisse potenti. Lorem ipsum
-												dolor sit amet, consectetur adipiscing elit. Sociis natoque penatibus et
-												magnis dis parturient montes, nascetur ridiculus mus. Fusce ante tellus,
-												convallis non consectetur sed, pharetra nec ex.</p>
+											<p class="mb-0 custom-font-1 fst-italic text-4 line-height-7">\Би энэ курсыг
+												голчлон ойрын хугацаанд Хятадад хийх бизнес аялалд харилцааны чадвараа
+												сайжруулах зорилгоор авсан. Өдөр тутмын яриа болон бизнесийн ёс зүйн практик
+												зааварчилгаа үнэлж баршгүй байсан. Дуудлага болон сонсголын дасгалууд нь эх
+												хэлээр ярьдаг хүмүүсийг илүү ойлгоход тусалсан бөгөөд өмнө надад хүнд байсан
+												асуудал байлаа. Мөн мэргэжлийн орчинд чухал ёс заншил, цээрлэлийг
+												тайлбарласан соёлын хичээлүүдийг үнэлсэн. Энэ курсын ачаар би Хятадын
+												хамтран ажиллагчид, үйлчлүүлэгчидтэй харилцахад илүү бэлтгэлтэй, итгэлтэй
+												болсон.</p>
 										</blockquote>
 										<div class="testimonial-author">
 											<p><strong class="font-weight-bold">John Smith</strong></p>
