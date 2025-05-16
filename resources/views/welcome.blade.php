@@ -450,7 +450,7 @@
 				</div>
 			</section>
 			<section class="section section-background custom-section-background-1 bg-color-tertiary border-0 m-0"
-				style="background-image: url(img/demos/education/backgrounds/background-1.jpg); background-position: 100% 100%; background-repeat: no-repeat; background-size: contain;">
+				style="background-image: url(img/demos/education/backgrounds/background-1.jpg); background-position: 100% 100%; background-repeat: no-repeat; background-size: cover">
 				<div class="container my-4">
 					<div class="row mb-4">
 						<div class="col-lg-6">
@@ -660,7 +660,8 @@
 						<div class="col text-center">
 							<div class="overflow-hidden">
 								<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-3-5 appear-animation"
-									data-appear-animation="maskUp" data-appear-animation-delay="300">Latest News</h2>
+									data-appear-animation="maskUp" data-appear-animation-delay="300">Сүүлийн үеийн мэдээ
+								</h2>
 							</div>
 						</div>
 					</div>
@@ -684,10 +685,20 @@
 										<div class="card-body p-0">
 											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a
 													class="text-color-secondary text-decoration-none"
-													href="demo-education-blog-post.html">Lorem ipsum dolor sit amet</a>
+													href="demo-education-blog-post.html">ХАЛУУН ОРОНД ХЭЛНИЙ БЭЛТГЭЛИЙН
+													ТЭТГЭЛЭГТЭЙ СУРАЛЦААРАЙ🥳</a>
 											</h4>
-											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
-												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
+											<p class="card-text mb-2">СУРГУУЛИЙН ТОВЧ МЭДЭЭЛЭЛ №8
+												💡Гуйжоу техникийн их сургууль нь (Guizhou Institute of Technology)
+												Боловсролын яамнаас батлагдсан инженер, шинжлэх ухаан, менежментийн
+												чиглэлээр мэргэшсэн олон мэргэжлийн өндөр стандарттай сургууль юм.
+												💡БНХАУ-ын урд зүгт Гуйжоу мужийн Гуйяан хотод байршилтай.
+												💡Гуйжоу техникийн их сургууль нь 2013 оны 4 сарын 18-нд албан ёсоор
+												байгуулагдсан. 2024 оны 1 сарын 1-ний байдлаар, сургуулийн нийт сургалтын
+												талбай 1336 метр квадрат, 19 коллеж болон 1 их сургуулийн технологийн
+												лаборатори, 39 бакалаврын мэргэжилтэй, 882 багш, ажилчид, бакалаврын 12700
+												гаруй оюутантай.
+												Та элсэлтийн дэлгэрэнгүй мэдээллийг доорх утас болон хаягуудаас аваарай</p>
 											<a href="demo-education-blog-post.html"
 												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">READ
 												MORE</a>
@@ -715,10 +726,18 @@
 										<div class="card-body p-0">
 											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a
 													class="text-color-secondary text-decoration-none"
-													href="demo-education-blog-post.html">Lorem ipsum dolor sit amet</a>
+													href="demo-education-blog-post.html">ХЭЛНИЙ БЭЛТГЭЛИЙН ТЭТГЭЛЭГ
+													ЗАРЛАГДЛАА🥳</a>
 											</h4>
-											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
-												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
+											<p class="card-text mb-2">📍Бээжинд байрладаг, Бээжин хотын боловсролын комиссын
+												харьяанд байдаг улсын их сургууль юм. Өмнө нь Бээжингийн Эдийн засгийн их
+												сургууль, Бээжингийн Санхүү, Худалдааны Их Сургууль гэж нэрлэгддэг байсан
+												бөгөөд 1995 онд нэгдэж, Нийслэлийн Эдийн засаг, Бизнесийн Их Сургууль
+												болжээ. Одоогийн байдлаар уг сургууль нь Бээжин дэх гол их сургууль болсон
+												бөгөөд 2 том кампустай.
+												📍Мэргэжлийн магистрын 18 хөтөлбөр, 1800 гаруй багш, түүний дотор 1000 гаруй
+												бүрэн цагийн багш, 16,784 оюутантай, үүнээс 11,522 бакалавр, 4,482 магистр,
+												646 докторын оюутан, 91 олон улсын оюутантай. </p>
 											<a href="demo-education-blog-post.html"
 												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">READ
 												MORE</a>
@@ -746,10 +765,27 @@
 										<div class="card-body p-0">
 											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a
 													class="text-color-secondary text-decoration-none"
-													href="demo-education-blog-post.html">Lorem ipsum dolor sit amet</a>
+													href="demo-education-blog-post.html">богино_хугацааны_эрчимжүүлсэн_сургалт</a>
 											</h4>
-											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing
-												elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
+											<p class="card-text mb-2"> ⌛️БҮРТГЭЛИЙН ХУГАЦАА 2025.05.30 ХҮРТЭЛ ⌛️
+												14 хоногийн хугацаанд хятад хэлийг орчинд нь суралцангаа хоттой танилцах,
+												аялах боломжийг танд олгож байна.
+												14 хоногийн хөтөлбөрт:
+												✨СУРГАЛТЫН ТӨЛБӨР
+												✨ДОТУУР БАЙР
+												✨ЗАМЫН ЗАРДАЛ
+												✨АЯЛЛЫН ҮЗВЭР ҮЙЛЧИЛГЭЭНИЙ ТӨЛБӨР зэрэг багтсан
+												ДАВУУ ТАЛ:
+												⚡️АЮУЛГҮЙ БАТАЛГААТАЙ
+												⚡️10 ЖИЛИЙН ТУРШЛАГАТАЙ
+												⚡️ ХЯТАД БАГШ НАР ЗААНА
+												⚡️ХОТЫН ТӨВД БАЙРЛАЛТАЙ
+												⚡️13-60 НАС /ГЭР БҮЛЭЭРЭЭ ЯВЖ БОЛНО/
+												⚡️АЯЛЛЫН ХӨТӨЧТЭЙ
+												⚡️АНГИ ХАМТ ОЛНООРОО АЯЛАХ БОЛОМЖТОЙ
+												Хөтөлбөр үргэлжлэх хугацаа: 2025/07/20-2025/08/02
+												✅Хятад улсад суралцах хүсэлтэй сурахаар зорьж буй хүн бүхэн дэлгэрэнгүй
+												мэдээлэл зөвлөгөө авах боломжтой.</p>
 											<a href="demo-education-blog-post.html"
 												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">READ
 												MORE</a>
@@ -762,229 +798,229 @@
 					</div>
 				</div>
 			</section>
-
-			<section class="section section-background custom-section-background-2 bg-color-light border-0 m-0"
-				style="background-image: url(img/demos/education/backgrounds/background-2.jpg); background-position: 0 100%; background-repeat: no-repeat; background-size: contain;">
-				<div class="container position-relative my-4">
-
-					<div class="custom-element custom-element-pos-3 appear-animation" data-appear-animation="expandIn"
-						data-appear-animation-delay="200">
-						<div class="opacity-2" data-plugin-float-element
-							data-plugin-options="{'startPos': 'bottom', 'speed': 0.8, 'transition': true, 'transitionDuration': 3000}">
-							<img class="icon-animated" width="157" height="157"
-								src="img/demos/education/elements/element-1.svg" alt="" data-icon
-								data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark'}" />
-						</div>
-					</div>
-
-					<div class="row justify-content-end mb-4">
-						<div class="col-lg-6 py-4">
-
-							<div class="row">
-								<div class="col">
-									<div class="feature-box feature-box-style-5">
-										<div class="feature-box-icon appear-animation"
-											data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="100">
-											<img class="icon-animated" width="50"
-												src="img/demos/education/icons/icon-medal.svg" alt="" data-icon
-												data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
-										</div>
-										<div class="feature-box-info">
-											<div class="overflow-hidden">
-												<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
-													data-appear-animation="maskUp" data-appear-animation-delay="100">
-													National Awards</h2>
-											</div>
-											<p class="text-3-5 line-height-9 mb-5 appear-animation"
-												data-appear-animation="fadeInUpShorterPlus"
-												data-appear-animation-delay="100">Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
-												fermentum consectetur adipiscing elit.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col">
-									<div class="feature-box feature-box-style-5">
-										<div class="feature-box-icon appear-animation"
-											data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="200">
-											<img class="icon-animated" width="50"
-												src="img/demos/education/icons/icon-list.svg" alt="" data-icon
-												data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
-										</div>
-										<div class="feature-box-info">
-											<div class="overflow-hidden">
-												<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
-													data-appear-animation="maskUp" data-appear-animation-delay="200">
-													Many Courses</h2>
-											</div>
-											<p class="text-3-5 line-height-9 mb-5 appear-animation"
-												data-appear-animation="fadeInUpShorterPlus"
-												data-appear-animation-delay="200">Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
-												fermentum consectetur adipiscing elit.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col">
-									<div class="feature-box feature-box-style-5">
-										<div class="feature-box-icon appear-animation"
-											data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="300">
-											<img class="icon-animated" width="50"
-												src="img/demos/education/icons/icon-badge.svg" alt="" data-icon
-												data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
-										</div>
-										<div class="feature-box-info">
-											<div class="overflow-hidden">
-												<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
-													data-appear-animation="maskUp" data-appear-animation-delay="300">The
-													Best Instructors</h2>
-											</div>
-											<p class="text-3-5 line-height-9 mb-0 appear-animation"
-												data-appear-animation="fadeInUpShorterPlus"
-												data-appear-animation-delay="300">Lorem ipsum dolor sit amet,
-												consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
-												fermentum consectetur adipiscing elit. </p>
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
+			<section class="section section-background custom-section-background-2 bg-color-light border-0 m-0" style="background-image: url(img/demos/education/backgrounds/background-2.jpg); 
+						background-position: center; 
+						background-repeat: no-repeat; 
+						background-size: cover;
+						border: 4px solid #ccc; 
+						border-radius: 8px;">
+				<div class="custom-element custom-element-pos-3 appear-animation" data-appear-animation="expandIn"
+					data-appear-animation-delay="200">
+					<div class="opacity-2" data-plugin-float-element
+						data-plugin-options="{'startPos': 'bottom', 'speed': 0.8, 'transition': true, 'transitionDuration': 3000}">
+						<img class="icon-animated" width="157" height="157" src="img/demos/education/elements/element-1.svg"
+							alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark'}" />
 					</div>
 				</div>
-			</section>
 
+				<div class="row justify-content-end mb-4">
+					<div class="col-lg-6 py-4">
+
+						<div class="row">
+							<div class="col">
+								<div class="feature-box feature-box-style-5">
+									<div class="feature-box-icon appear-animation"
+										data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="100">
+										<img class="icon-animated" width="50" src="img/demos/education/icons/icon-medal.svg"
+											alt="" data-icon
+											data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+									</div>
+									<div class="feature-box-info">
+										<div class="overflow-hidden">
+											<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
+												data-appear-animation="maskUp" data-appear-animation-delay="100">
+												National Awards</h2>
+										</div>
+										<p class="text-3-5 line-height-9 mb-5 appear-animation"
+											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100">
+											Lorem ipsum dolor sit amet,
+											consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
+											fermentum consectetur adipiscing elit.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col">
+								<div class="feature-box feature-box-style-5">
+									<div class="feature-box-icon appear-animation"
+										data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="200">
+										<img class="icon-animated" width="50" src="img/demos/education/icons/icon-list.svg"
+											alt="" data-icon
+											data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+									</div>
+									<div class="feature-box-info">
+										<div class="overflow-hidden">
+											<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
+												data-appear-animation="maskUp" data-appear-animation-delay="200">
+												Many Courses</h2>
+										</div>
+										<p class="text-3-5 line-height-9 mb-5 appear-animation"
+											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="200">
+											Lorem ipsum dolor sit amet,
+											consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
+											fermentum consectetur adipiscing elit.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col">
+								<div class="feature-box feature-box-style-5">
+									<div class="feature-box-icon appear-animation"
+										data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="300">
+										<img class="icon-animated" width="50" src="img/demos/education/icons/icon-badge.svg"
+											alt="" data-icon
+											data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}" />
+									</div>
+									<div class="feature-box-info">
+										<div class="overflow-hidden">
+											<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
+												data-appear-animation="maskUp" data-appear-animation-delay="300">The
+												Best Instructors</h2>
+										</div>
+										<p class="text-3-5 line-height-9 mb-0 appear-animation"
+											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="300">
+											Lorem ipsum dolor sit amet,
+											consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
+											fermentum consectetur adipiscing elit. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
 		</div>
+		</section>
 
-		<footer id="footer" class="footer-reveal bg-color-secondary border-0 mt-0">
-			<div class="container py-5">
-				<div class="row py-5">
-					<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+	</div>
 
-						<a href="demo-education.html" class="d-inline-block mb-3">
-							<img alt="Porto" width="115" height="30" src="img/demos/education/logo-footer.png">
-						</a>
+	<footer id="footer" class="footer-reveal bg-color-secondary border-0 mt-0">
+		<div class="container py-5">
+			<div class="row py-5">
+				<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
 
-						<ul class="social-icons social-icons-clean social-icons-icon-light">
-							<li>
-								<a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-							</li>
-							<li>
-								<a href="https://www.twitter.com/"><i class="fab fa-x-twitter"></i></a>
-							</li>
-							<li>
-								<a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-							</li>
-						</ul>
+					<a href="demo-education.html" class="d-inline-block mb-3">
+						<img alt="Porto" width="115" height="30" src="img/demos/education/logo-footer.png">
+					</a>
 
-						<p class="text-3 mt-4 mb-0 line-height-8 text-color-tertiary opacity-6">Porto Education. ©
-							2025.<br> All Rights Reserved</p>
+					<ul class="social-icons social-icons-clean social-icons-icon-light">
+						<li>
+							<a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+						</li>
+						<li>
+							<a href="https://www.twitter.com/"><i class="fab fa-x-twitter"></i></a>
+						</li>
+						<li>
+							<a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+						</li>
+					</ul>
 
-					</div>
-					<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
-						<h4 class="font-weight-bold text-5">About Us</h4>
-						<ul class="list list-unstyled text-color-tertiary opacity-6">
-							<li class="mb-1">
-								Porto Education
-							</li>
-							<li class="mb-1">
-								123 Porto Blvd, Suite 100
-							</li>
-							<li class="mb-1">
-								New York, NY
-							</li>
-							<li class="mb-1">
-								Phone: <a href="tel:1234567890"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary">123-456-7890</a>
-							</li>
-							<li>
-								Email: <a href="mailto:email@domain.com"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary">porto@domain.com</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
-						<h4 class="font-weight-bold text-5">Navigation</h4>
-						<ul class="list list-unstyled opacity-6">
-							<li class="mb-1">
-								<a href="demo-education.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Home</a>
-							</li>
-							<li class="mb-1">
-								<a href="demo-education-about-us.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									About Us</a>
-							</li>
-							<li class="mb-1">
-								<a href="demo-education-courses.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Courses</a>
-							</li>
-							<li class="mb-1">
-								<a href="demo-education-instructors.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Instructors</a>
-							</li>
-							<li class="mb-1">
-								<a href="demo-education-blog.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Blog</a>
-							</li>
-							<li>
-								<a href="demo-education-contact-us.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Contact Us</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
-						<h4 class="font-weight-bold text-5">Support</h4>
-						<ul class="list list-unstyled opacity-6">
-							<li class="mb-1">
-								<a href="demo-education.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Documentation</a>
-							</li>
-							<li class="mb-1">
-								<a href="demo-education.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Forums</a>
-							</li>
-							<li class="mb-1">
-								<a href="demo-education.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Open a Ticket</a>
-							</li>
-							<li>
-								<a href="demo-education.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									FAQ's</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
-						<h4 class="font-weight-bold text-5">More</h4>
-						<ul class="list list-unstyled opacity-6">
-							<li class="mb-1">
-								<a href="demo-education.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Terms of Use</a>
-							</li>
-							<li>
-								<a href="demo-education.html"
-									class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-									Privacy Policy</a>
-							</li>
-						</ul>
-					</div>
+					<p class="text-3 mt-4 mb-0 line-height-8 text-color-tertiary opacity-6">Porto Education. ©
+						2025.<br> All Rights Reserved</p>
+
+				</div>
+				<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+					<h4 class="font-weight-bold text-5">About Us</h4>
+					<ul class="list list-unstyled text-color-tertiary opacity-6">
+						<li class="mb-1">
+							Porto Education
+						</li>
+						<li class="mb-1">
+							123 Porto Blvd, Suite 100
+						</li>
+						<li class="mb-1">
+							New York, NY
+						</li>
+						<li class="mb-1">
+							Phone: <a href="tel:1234567890"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary">123-456-7890</a>
+						</li>
+						<li>
+							Email: <a href="mailto:email@domain.com"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary">porto@domain.com</a>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
+					<h4 class="font-weight-bold text-5">Navigation</h4>
+					<ul class="list list-unstyled opacity-6">
+						<li class="mb-1">
+							<a href="demo-education.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Home</a>
+						</li>
+						<li class="mb-1">
+							<a href="demo-education-about-us.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								About Us</a>
+						</li>
+						<li class="mb-1">
+							<a href="demo-education-courses.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Courses</a>
+						</li>
+						<li class="mb-1">
+							<a href="demo-education-instructors.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Instructors</a>
+						</li>
+						<li class="mb-1">
+							<a href="demo-education-blog.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Blog</a>
+						</li>
+						<li>
+							<a href="demo-education-contact-us.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Contact Us</a>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
+					<h4 class="font-weight-bold text-5">Support</h4>
+					<ul class="list list-unstyled opacity-6">
+						<li class="mb-1">
+							<a href="demo-education.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Documentation</a>
+						</li>
+						<li class="mb-1">
+							<a href="demo-education.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Forums</a>
+						</li>
+						<li class="mb-1">
+							<a href="demo-education.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Open a Ticket</a>
+						</li>
+						<li>
+							<a href="demo-education.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								FAQ's</a>
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
+					<h4 class="font-weight-bold text-5">More</h4>
+					<ul class="list list-unstyled opacity-6">
+						<li class="mb-1">
+							<a href="demo-education.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Terms of Use</a>
+						</li>
+						<li>
+							<a href="demo-education.html"
+								class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
+								Privacy Policy</a>
+						</li>
+					</ul>
 				</div>
 			</div>
-		</footer>
+		</div>
+	</footer>
 	</div>
 
 @endsection
