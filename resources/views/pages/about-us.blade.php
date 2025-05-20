@@ -55,19 +55,19 @@
                     <div class="row text-center mt-5 gy-4">
                         <div class="col-4">
                             <div class="counter" style="animation: fadeInUp 0.5s ease forwards;">
-                                <strong class="text-color-primary text-18" data-to="30" data-append="+">30</strong>
+                                <strong class="text-color-primary text-12" data-to="30" data-append="+">30</strong>
                                 <div class="text-6 fw-semibold mt-2 text-color-dark">Expert Educators</div>
                             </div>
                         </div>
                         <div class="col-4">
                             <div class="counter" style="animation: fadeInUp 0.7s ease forwards;">
-                                <strong class="text-color-secondary text-18" data-to="2000" data-append="+">2000</strong>
+                                <strong class="text-color-secondary text-12" data-to="2000" data-append="+">2000</strong>
                                 <div class="text-6 fw-semibold mt-2 text-color-dark">Students Empowered</div>
                             </div>
                         </div>
                         <div class="col-4">
                             <div class="counter" style="animation: fadeInUp 0.9s ease forwards;">
-                                <strong class="text-color-primary text-18" data-to="250" data-append="+">250</strong>
+                                <strong class="text-color-primary text-12" data-to="250" data-append="+">250</strong>
                                 <div class="text-6 fw-semibold mt-2 text-color-dark">Courses Delivered</div>
                             </div>
                         </div>
@@ -76,35 +76,38 @@
                     <!-- Features with icons -->
                     <div class="row mt-5 g-4 text-center">
                         <div class="col-md-4">
-                            <div class="feature-box py-4 px-3 border rounded shadow-sm h-100">
+                            <div
+                                class="feature-box py-4 px-3 border rounded shadow-sm h-100 d-flex flex-column align-items-center">
                                 <div class="feature-box-icon mb-3 text-color-primary">
                                     <i class="fas fa-graduation-cap fa-3x"></i>
                                 </div>
                                 <h4 class="fw-bold text-color-primary mb-2">Quality Education</h4>
-                                <p class="text-5 text-color-dark">
+                                <p class="text-5 text-color-dark mb-0">
                                     Rigorous, engaging curricula taught by passionate educators to unlock every learner’s
                                     full potential.
                                 </p>
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="feature-box py-4 px-3 border rounded shadow-sm h-100">
+                            <div
+                                class="feature-box py-4 px-3 border rounded shadow-sm h-100 d-flex flex-column align-items-center">
                                 <div class="feature-box-icon mb-3 text-color-secondary">
                                     <i class="fas fa-users fa-3x"></i>
                                 </div>
                                 <h4 class="fw-bold text-color-secondary mb-2">Inclusive Community</h4>
-                                <p class="text-5 text-color-dark">
+                                <p class="text-5 text-color-dark mb-0">
                                     A diverse, supportive community committed to collaboration, growth, and shared success.
                                 </p>
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="feature-box py-4 px-3 border rounded shadow-sm h-100">
+                            <div
+                                class="feature-box py-4 px-3 border rounded shadow-sm h-100 d-flex flex-column align-items-center">
                                 <div class="feature-box-icon mb-3 text-color-primary">
                                     <i class="fas fa-lightbulb fa-3x"></i>
                                 </div>
                                 <h4 class="fw-bold text-color-primary mb-2">Innovation & Research</h4>
-                                <p class="text-5 text-color-dark">
+                                <p class="text-5 text-color-dark mb-0">
                                     Leading in educational research and technology to create impactful, future-ready
                                     learning experiences.
                                 </p>
@@ -127,7 +130,6 @@
         <section class="bg-primary text-light py-7 mb-6 shadow-lg rounded-4" style="max-width: 900px; margin: 3rem auto;">
             <div class="container text-center px-4">
                 <div class="testimonial testimonial-style-2 testimonial-with-quotes mx-auto" style="max-width: 800px;">
-                    <blockquote>
                         <p class="mb-0 custom-font-1 fst-italic text-6 line-height-9 fw-semibold"
                             style="letter-spacing: 0.02em;">
                             “Education is not merely the filling of a vessel, but the kindling of a flame for lifelong
