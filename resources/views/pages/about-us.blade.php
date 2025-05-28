@@ -78,7 +78,7 @@
                         <div class="col-md-4">
                             <div
                                 class="feature-box py-4 px-3 border rounded shadow-sm h-100 d-flex flex-column align-items-center">
-                                <div class="feature-box-icon mb-3 text-color-primary">
+                                <div class="mb-3 text-color-primary">
                                     <i class="fas fa-graduation-cap fa-3x"></i>
                                 </div>
                                 <h4 class="fw-bold text-color-primary mb-2">Quality Education</h4>
@@ -91,7 +91,7 @@
                         <div class="col-md-4">
                             <div
                                 class="feature-box py-4 px-3 border rounded shadow-sm h-100 d-flex flex-column align-items-center">
-                                <div class="feature-box-icon mb-3 text-color-secondary">
+                                <div class="mb-3 text-color-secondary">
                                     <i class="fas fa-users fa-3x"></i>
                                 </div>
                                 <h4 class="fw-bold text-color-secondary mb-2">Inclusive Community</h4>
@@ -103,7 +103,7 @@
                         <div class="col-md-4">
                             <div
                                 class="feature-box py-4 px-3 border rounded shadow-sm h-100 d-flex flex-column align-items-center">
-                                <div class="feature-box-icon mb-3 text-color-primary">
+                                <div class="mb-3 text-color-primary">
                                     <i class="fas fa-lightbulb fa-3x"></i>
                                 </div>
                                 <h4 class="fw-bold text-color-primary mb-2">Innovation & Research</h4>
@@ -130,12 +130,12 @@
         <section class="bg-primary text-light py-7 mb-6 shadow-lg rounded-4" style="max-width: 900px; margin: 3rem auto;">
             <div class="container text-center px-4">
                 <div class="testimonial testimonial-style-2 testimonial-with-quotes mx-auto" style="max-width: 800px;">
-                        <p class="mb-0 custom-font-1 fst-italic text-6 line-height-9 fw-semibold"
-                            style="letter-spacing: 0.02em;">
-                            “Education is not merely the filling of a vessel, but the kindling of a flame for lifelong
-                            learning, inspiration, and achievement. At our institution, that flame burns brightly,
-                            illuminating paths, awakening ideas, and empowering futures.”
-                        </p>
+                    <p class="mb-0 custom-font-1 fst-italic text-6 line-height-9 fw-semibold"
+                        style="letter-spacing: 0.02em;">
+                        “Education is not merely the filling of a vessel, but the kindling of a flame for lifelong
+                        learning, inspiration, and achievement. At our institution, that flame burns brightly,
+                        illuminating paths, awakening ideas, and empowering futures.”
+                    </p>
                     </blockquote>
                     <div class="testimonial-author mt-5">
                         <p class="mb-0 fs-5 fw-bold">John Doe</p>

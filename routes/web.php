@@ -33,3 +33,14 @@ Route::get('/blog/{slug}', function ($slug) {
 });
 
 Route::post('/contact/send', [ContactController::class, 'send'])->name('contact.send');
+
+
+// Courses list page
+Route::get('/courses', function () {
+    return view('pages.courses');
+})->name('courses');
+
+// Course details page
+Route::get('/courses/details/{id}', function ($id) {
+    return view('pages.courses-details', compact('id'));
+})->name('courses.details');

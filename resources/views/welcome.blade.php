@@ -4,7 +4,7 @@
 
 	<div class="body">
 
-	@include('layouts.header')
+		@include('layouts.header')
 
 		<div role="main" class="main">
 
@@ -318,12 +318,14 @@
 							</div>
 						</div>
 					</div>
+
 					<div class="row pt-2">
 						<div class="col text-center">
-							<a href="demo-education-courses.html"
+							<a href="{{ url('/courses') }}"
 								class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 mt-4 mb-2 appear-animation"
-								data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="350">БҮГДИЙГ
-								ХАРАХ</a>
+								data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="350">
+								БҮГДИЙГ ХАРАХ
+							</a>
 						</div>
 					</div>
 				</div>
@@ -678,11 +680,11 @@
 				</div>
 			</section>
 			<section class="section section-background custom-section-background-2 bg-color-light border-0 m-0" style="background-image: url(img/demos/education/backgrounds/background-2.jpg); 
-							background-position: center; 
-							background-repeat: no-repeat; 
-							background-size: cover;
-							border: 4px solid #ccc; 
-							border-radius: 8px;">
+									background-position: center; 
+									background-repeat: no-repeat; 
+									background-size: cover;
+									border: 4px solid #ccc; 
+									border-radius: 8px;">
 				<div class="custom-element custom-element-pos-3 appear-animation" data-appear-animation="expandIn"
 					data-appear-animation-delay="200">
 					<div class="opacity-2" data-plugin-float-element
