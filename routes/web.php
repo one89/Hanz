@@ -30,30 +30,22 @@ Route::post('/contact', function (Request $request) {
 })->name('contact.send');
 
 Route::get('/blog', function () {
-    return view('blog');
+    return view('pages.blog');
 })->name('blog.index');
 // ...existing code...
-
 
 // Courses list page
 Route::get('/courses', function () {
     return view('pages.courses');
 })->name('courses');
-
 // Course details page
+
 Route::get('/courses/details/{id}', function ($id) {
     return view('pages.courses-details', compact('id'));
 })->name('courses.details');
-
-
 // ...existing code...
+
 Route::get('/instructors', function () {
-    return view('instructors');
-});
-// ...existing code...
-
-
-// Route for the admin dashboard
-// ...existing code...
-Route::get('/instructors', [App\Http\Controllers\InstructorsController::class, 'index']);
+    return view('pages.instructors');
+})->name('instructors');
 // ...existing code...

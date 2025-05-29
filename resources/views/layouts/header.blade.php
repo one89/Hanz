@@ -63,7 +63,7 @@
 					<div class="header-row">
 						<div class="header-nav header-nav-links">
 							<div
-								class="header-nav-main header-nav-main-text-capitalize header-nav-main-effect-2 header-nav-main-sub-effect-1">
+								class="header-nav-main header-nav-main-text-capitalize header-nav-main-effect-2 header-nav-main-sub-effect-1 text-color-dark">
 								<nav class="collapse">
 
 									<ul class="nav nav-pills" id="mainNav">
