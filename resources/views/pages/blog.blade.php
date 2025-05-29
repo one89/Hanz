@@ -14,7 +14,7 @@
 					<div class="container">
 						<div class="row mt-5">
 							<div class="col align-self-center p-static text-center">
-								<h1 class="font-weight-bold text-color-secondary text-10">Blog</h1>
+								<h1 class="font-weight-bold text-color-white text-10">Мэдээ мэдээлэл</h1>
 							</div>
 						</div>
 					</div>
@@ -42,12 +42,12 @@
 											<span class="opacity-3 d-inline-block px-2">|</span> 
 											3 Comments 
 											<span class="opacity-3 d-inline-block px-2">|</span> 
-											John Doe
+											М.Мөнх-Эрдэнэ
 										</p>
 										<div class="card-body p-0">
-											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a class="text-color-secondary text-color-hover-primary text-decoration-none text-4" href="demo-education-blog-post.html">The Education Business</a></h4>
+											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a class="text-color-secondary text-color-hover-primary text-decoration-none text-4" href="demo-education-blog-post.html">Ханз эдү академи шинээр нээгдлээ</a></h4>
 											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-education-blog-post.html" class="text-decoration-none custom-link-hover-effects">
+											<a href="/blog" class="text-decoration-none custom-link-hover-effects">
 												<span class="btn btn-link font-weight-semi-bold text-decoration-none text-2 ps-0 text-uppercase">
 													Read More
 												</span>
@@ -68,12 +68,12 @@
 											<span class="opacity-3 d-inline-block px-2">|</span> 
 											3 Comments 
 											<span class="opacity-3 d-inline-block px-2">|</span> 
-											John Doe
+											М.Мөнх-Эрдэнэ
 										</p>
 										<div class="card-body p-0">
-											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a class="text-color-secondary text-color-hover-primary text-decoration-none text-4" href="demo-education-blog-post.html">How to Grow your Business</a></h4>
+											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a class="text-color-secondary text-color-hover-primary text-decoration-none text-4" href="demo-education-blog-post.html">Бид ханз эдү-д хэрхэн байдаг вэ</a></h4>
 											<p class="card-text mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra lorem , consectetur adipiscing elit...</p>
-											<a href="demo-education-blog-post.html" class="text-decoration-none custom-link-hover-effects">
+											<a href="/blog" class="text-decoration-none custom-link-hover-effects">
 												<span class="btn btn-link font-weight-semi-bold text-decoration-none text-2 ps-0 text-uppercase">
 													Read More
 												</span>
@@ -95,8 +95,8 @@
 						<div class="blog-sidebar col-lg-4 pt-4 pt-lg-0 mb-5">
 							<aside class="sidebar">
 								<div class="px-3 mb-4">
-									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0 mb-3">About The Blog</h3>
-									<p class="m-0">Lorem ipsum dolor sit amet, conse elit porta. Vestibulum ante justo, volutpat quis porta diam.</p>
+									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0 mb-3">Блог гэж юу вэ?</h3>
+									<p class="m-0">Блог (англиар "weblog" → "blog") нь хувь хүн, байгууллага, нийгэмлэг зэрэгт зориулж бичигддэг, цахим дэвтэр (онлайн сэтгүүл) юм.</p>
 								</div>
 								<div class="py-1 clearfix">
 									<hr class="my-2">
@@ -113,21 +113,21 @@
 									<hr class="my-2">
 								</div>
 								<div class="px-3 mt-4">
-									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0 mb-3">Recent Posts</h3>
+									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0 mb-3">Блог постууд</h3>
 									<div class="pb-2 mb-1">
-										<a href="#" class="text-color-default text-uppercase text-1 mb-0 d-block text-decoration-none">10 Jan 2025 <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> John Doe</a>
-										<a href="#" class="text-color-secondary text-hover-primary font-weight-bold text-3 d-block pb-3 line-height-4">Lorem ipsum dolor sit amet</a>
-										<a href="#" class="text-color-default text-uppercase text-1 mb-0 d-block text-decoration-none">10 Jan 2025 <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> John Doe</a>
-										<a href="#" class="text-color-secondary text-hover-primary font-weight-bold text-3 d-block pb-3 line-height-4">Consectetur adipiscing elit</a>
-										<a href="#" class="text-color-default text-uppercase text-1 mb-0 d-block text-decoration-none">10 Jan 2025 <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> John Doe</a>
-										<a href="#" class="text-color-secondary text-hover-primary font-weight-bold text-3 d-block pb-3 line-height-4">Vivamus sollicitudin nibh luctus</a>
+										<a href="#" class="text-color-default text-uppercase text-1 mb-0 d-block text-decoration-none">10 Mar 2025 <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> Э.Энхрий</a>
+										<a href="#" class="text-color-secondary text-hover-primary font-weight-bold text-3 d-block pb-3 line-height-4">Бид сургалтын хөтөлбөрөө хэрхэн шинэчилдэг вэ?</a>
+										<a href="#" class="text-color-default text-uppercase text-1 mb-0 d-block text-decoration-none">10 Jan 2025 <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> М.Мөнхсүлд</a>
+										<a href="#" class="text-color-secondary text-hover-primary font-weight-bold text-3 d-block pb-3 line-height-4">vБээжингийн хэлний их сургуулийн хамгийн сүүлд хэвлэн гаргасан сурах бичгийг хичээлийн хөтөлбөрт тусгаж,</a>
+										<a href="#" class="text-color-default text-uppercase text-1 mb-0 d-block text-decoration-none">10 Apr 2025 <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> О.Энхэрдэнэ</a>
+										<a href="#" class="text-color-secondary text-hover-primary font-weight-bold text-3 d-block pb-3 line-height-4">шинэчлэн найруулан гарын авлага гаргадаг.</a>
 									</div>
 								</div>
 								<div class="py-1 clearfix">
 									<hr class="my-2">
 								</div>
 								<div class="px-3 mt-4">
-									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0 mb-3">Recent Comments</h3>
+									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0 mb-3">Комментууд</h3>
 									<div class="pb-2 mb-1">
 										<a href="#" class="text-color-default text-2 mb-0 d-block text-decoration-none line-height-4">Admin on <strong class="text-color-secondary text-hover-primary text-4">Vivamus sollicitudin</strong> <span class="text-uppercase text-1 d-block pt-1 pb-3">10 Jan 2025</span></a>
 										<a href="#" class="text-color-default text-2 mb-0 d-block text-decoration-none line-height-4">John Doe on <strong class="text-color-secondary text-hover-primary text-4">Lorem ipsum dolor</strong> <span class="text-uppercase text-1 d-block pt-1 pb-3">10 Jan 2025</span></a>
@@ -138,7 +138,7 @@
 									<hr class="my-2">
 								</div>
 								<div class="px-3 mt-4">
-									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0">Categories</h3>
+									<h3 class="text-color-secondary text-capitalize font-weight-bold text-5 m-0">Категори</h3>
 									<ul class="nav nav-list flex-column mt-2 mb-0 p-relative right-9">
 										<li class="nav-item"><a class="nav-link bg-transparent border-0" href="#">Design (2)</a></li>
 										<li class="nav-item">
