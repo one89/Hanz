@@ -16,7 +16,7 @@
                         <div class="container">
                             <div class="row mt-5">
                                 <div class="col align-self-center p-static text-center">
-                                    <h1 class="font-weight-bold text-color-secondary text-10">Courses</h1>
+                                    <h1 class="font-weight-bold text-color-secondary text-10">Хэлний сургалт</h1>
                                 </div>
                             </div>
                         </div>
@@ -25,8 +25,8 @@
                         <div class="row py-3">
                             <div class="col">
                                 <ul class="breadcrumb d-block">
-                                    <li><a href="#">Home</a></li>
-                                    <li class="active">Courses</li>
+                                    <li><a href="#">Нүүр хуудас</a></li>
+                                    <li class="active">Хичээл</li>
                                 </ul>
                             </div>
                         </div>
@@ -41,8 +41,7 @@
                                         <div class="col-md-4 mb-4 pb-1">
                                             <div class="card custom-card-courses border-radius-0 hover-effect-1">
                                                 <div class="p-relative">
-                                                    <a href="/courses-details"
-                                                        class="text-color-secondary" title="">
+                                                    <a href="/courses-details" class="text-color-secondary" title="">
                                                         <img class="card-img-top border-radius-0"
                                                             src="img/demos/education/courses/course-1.jpg" alt="" />
                                                     </a>
@@ -53,7 +52,8 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Б. Отгонжаргал
+                                                    </p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
                                                             class="text-color-secondary" title="">Course Name
@@ -91,12 +91,7 @@
                                                     <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$59</strong>
-                                                    </div>
+                                                            class="text-color-secondary" title="">анхан шат</a></h4>
 
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
@@ -123,15 +118,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Б. Отгонжаргал
+                                                    </p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$29</strong>
-                                                    </div>
+                                                            class="text-color-secondary" title="">анхан дунд шат</a></h4>
 
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
@@ -158,15 +149,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Э. Мөнхдолгор</p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$19</strong>
-                                                    </div>
+                                                            class="text-color-secondary" title="">дунд шат</a></h4>
 
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
@@ -192,15 +178,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Б. Ариунхишиг</p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$79</strong>
-                                                    </div>
+                                                            class="text-color-secondary" title="">дунд ахисан шат</a></h4>
 
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
@@ -227,15 +208,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Э. Мөнхдолгор</p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$59</strong>
-                                                    </div>
+                                                            class="text-color-secondary" title="">ахисан шат</a></h4>
 
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
@@ -262,16 +238,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Э. Мөнхдолгор</p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$29</strong>
-                                                    </div>
-
+                                                            class="text-color-secondary" title="">ахисан дунд шат</a></h4>
+                                                    ]
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
                                                                 class="far text-primary fa-user"></i> 123 </span>
@@ -297,15 +268,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Э. Мөнхдолгор</p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$19</strong>
-                                                    </div>
+                                                            class="text-color-secondary" title="">HKS-4</a></h4>
 
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
@@ -331,15 +297,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="card-body">
-                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+                                                    <p class="mb-0 text-1 p-relative top-5 text-uppercase">Э. Мөнхдолгор</p>
                                                     <h4 class="mb-3 text-color-secondary"><a
                                                             href="demo-education-courses-details.html"
-                                                            class="text-color-secondary" title="">Course Name
-                                                            Example</a></h4>
-
-                                                    <div class="float-end">
-                                                        <strong class="text-primary text-5">$79</strong>
-                                                    </div>
+                                                            class="text-color-secondary" title="">HSK-1</a></h4>
 
                                                     <div class="text-2">
                                                         <span class="d-inline-block pe-2"><i
@@ -370,38 +331,7 @@
 
                                 <!-- Sidebar -->
                                 <div class="col-lg-3 position-relative">
-
-                                    <div class="mt-2 mb-4 pb-2">
-                                        <h2 class="text-color-secondary font-weight-semi-bold text-5 line-height-1 mb-3">
-                                            Categories</h2>
-
-                                        <ul class="nav nav-list flex-column p-relative right-9">
-                                            <li class="nav-item"><a class="nav-link bg-transparent border-0" href="#">Design
-                                                    (2)</a></li>
-                                            <li class="nav-item">
-                                                <a class="nav-link bg-transparent border-0 active" href="#">Web
-                                                    Development (4)</a>
-                                                <ul>
-                                                    <li class="nav-item"><a class="nav-link bg-transparent border-0"
-                                                            href="#">Data Science</a></li>
-                                                    <li class="nav-item"><a
-                                                            class="nav-link bg-transparent border-0 active text-color-primary"
-                                                            href="#">Mobile Development</a></li>
-                                                    <li class="nav-item"><a class="nav-link bg-transparent border-0"
-                                                            href="#">Software Testing</a></li>
-                                                    <li class="nav-item"><a class="nav-link bg-transparent border-0"
-                                                            href="#">Development Tools</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item"><a class="nav-link bg-transparent border-0"
-                                                    href="#">Personal Development (3)</a></li>
-                                            <li class="nav-item"><a class="nav-link bg-transparent border-0"
-                                                    href="#">Business (2)</a></li>
-                                            <li class="nav-item"><a class="nav-link bg-transparent border-0"
-                                                    href="#">Photography (1)</a></li>
-                                        </ul>
-                                    </div>
-
+                                    <div class="mt-2 mb-4 pb-2"></div>
                                     <div class="mt-2 mb-4 pb-2">
 
                                         <h2 class="text-color-secondary font-weight-semi-bold text-5 line-height-1 mb-3">
@@ -419,10 +349,10 @@
                                                 </div>
                                                 <div class="post-info">
                                                     <a href="blog-post.html"
-                                                        class="text-color-secondary text-3 font-weight-semi-bold line-height-4 d-block pb-1">Course
-                                                        Name Example</a>
+                                                        class="text-color-secondary text-3 font-weight-semi-bold line-height-4 d-block pb-1">Сургалт
+                                                        HSK-2</a>
                                                     <div class="post-meta">
-                                                        <strong class="text-primary text-4">$79</strong>
+                                                        <strong class="text-primary text-4">$1500</strong>
                                                     </div>
                                                 </div>
                                             </li>
@@ -437,10 +367,10 @@
                                                 </div>
                                                 <div class="post-info">
                                                     <a href="blog-post.html"
-                                                        class="text-color-secondary text-3 font-weight-semi-bold line-height-4 d-block pb-1">Course
-                                                        Name Example</a>
+                                                        class="text-color-secondary text-3 font-weight-semi-bold line-height-4 d-block pb-1">Сургалт
+                                                        HSK-3</a>
                                                     <div class="post-meta">
-                                                        <strong class="text-primary text-4">$79</strong>
+                                                        <strong class="text-primary text-4">$1500</strong>
                                                     </div>
                                                 </div>
                                             </li>
@@ -455,10 +385,11 @@
                                                 </div>
                                                 <div class="post-info">
                                                     <a href="blog-post.html"
-                                                        class="text-color-secondary text-3 font-weight-semi-bold line-height-4 d-block pb-1">Course
-                                                        Name Example</a>
+                                                        class="text-color-secondary text-3 font-weight-semi-bold line-height-4 d-block pb-1">Сургалт
+                                                        HSK-4</a>
                                                     <div class="post-meta">
-                                                        <strong class="text-primary text-4">$79</strong>
+                                                        <strong class="text-primary text-4">$1500
+                                                        </strong>
                                                     </div>
                                                 </div>
                                             </li>
@@ -485,18 +416,18 @@
                                                     <div class="col col pt-2">
                                                         <h2 class="text-color-light font-weight-semi-bold text-7 mb-0 appear-animation"
                                                             data-appear-animation="fadeInRightShorterPlus"
-                                                            data-appear-animation-delay="150">Ready to kick-start your
-                                                            career?</h2>
+                                                            data-appear-animation-delay="150">Карьераа хүчтэй эхлүүлэхэд
+                                                            бэлэн үү?</h2>
 
                                                         <a href="demo-education-courses.html"
                                                             class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 mt-4 mb-2 appear-animation"
                                                             data-appear-animation="fadeInLeftShorterPlus"
-                                                            data-appear-animation-delay="350">GET STARTED NOW</a>
+                                                            data-appear-animation-delay="350">Эхлээд үз!</a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </section>
-                                    </div>
+                                    </div>S
 
                                 </div>
                             </div>

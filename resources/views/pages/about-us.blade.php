@@ -158,65 +158,77 @@
             </div>
         </section>
 
-        <!-- Mission and Vision Section -->
-        <section class="container my-7">
-            <div class="row gx-5 text-center text-md-start">
-                <div class="col-md-6 mb-6 mb-md-0 px-2 px-md-0"
-                    style="border: 4px solid #dcdcdc; border-radius: 12px; padding: 20px; background-color: #f9f9f9;">
-                    <h3 class="text-color-primary fw-bold mb-4 fs-3">Бидний эрхэм зорилго</h3>
-                    <p class="text-5 text-color-dark" style="line-height: 1.85;">
-                        Бидний зорилго:
-                    </p>
-                    <ul class="text-5 text-color-dark"
-                        style="line-height: 1.85; list-style-type: disc; padding-left: 20px;">
-                        <li>Суралцагчдын онцгой чадварыг нээх</li>
-                        <li>Амжилттай, утга учиртай амьдралд хүрэхэд дэмжих</li>
-                        <li>Шинэлэг, өндөр чанартай боловсролыг хүргэх</li>
-                        <li>Оролцоо, бүтээлч байдал, шилдэг чанарыг хөгжүүлэх</li>
-                    </ul>
-                </div>
-                <div class="col-md-6 px-2 px-md-0"
-                    style="border: 2px solid #dcdcdc; border-radius: 12px; padding: 20px; background-color: #f9f9f9;">
-                    <h3 class="text-color-primary fw-bold mb-4 fs-3">Бидний алсын хараа</h3>
-                    <p class="text-5 text-color-dark" style="line-height: 1.85;">
-                        Бид дэлхий даяар:
-                    </p>
-                    <ul class="text-5 text-color-dark"
-                        style="line-height: 1.85; list-style-type: disc; padding-left: 20px;">
-                        <li>Эерэг нөлөө үзүүлэх</li>
-                        <li>Хувь хүнийг өөрчлөх боловсролын чиглэлээр манлайлагч болох</li>
-                        <li>Шинэчлэлийг урамшуулж, манлайллыг төлөвшүүлэх</li>
-                        <li>Насан туршийн суралцахуйг дэмжих</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="text-center mt-4">
-                <a href="{{ url('/contact') }}" class="btn btn-primary">Бидэнтэй холбогдох</a>
-            </div>
-        </section>
-
 
         <!-- Call to Action -->
-        <section class="section section-height-4 bg-color-light border-0 py-6 shadow-sm rounded-4">
-            <div class="container">
-                <div class="row align-items-center justify-content-between text-center text-lg-start">
-                    <div class="col-lg-8">
-                        <h2 class="text-color-primary fw-extra-bold mb-2" style="font-size: 2.5rem;">
-                            Боловсролын аялалдаа гарахад бэлэн үү?
-                        </h2>
-                        <p class="text-4 text-color-dark mt-1 mb-0 fw-medium">
-                            Манай хөтөлбөрүүдээр дамжуулан амьдралаа өөрчилсөн олон мянган суралцагчдын нэг болоорой.
-                        </p>
+        <section class="container my-7">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="row g-4">
+                        <!-- Mission Card -->
+                        <div class="col-md-6">
+                            <div class="card h-100 shadow border-0 rounded-4 bg-white">
+                                <div class="card-body p-4">
+                                    <div class="d-flex align-items-center mb-3">
+                                        <span class="bg-primary bg-opacity-10 text-primary rounded-circle p-3 me-3">
+                                            <i class="fas fa-bullseye fa-2x"></i>
+                                        </span>
+                                        <h3 class="mb-0 fw-bold fs-4 text-color-primary">Бидний эрхэм зорилго</h3>
+                                    </div>
+                                    <p class="text-5 text-color-dark mb-3" style="line-height: 1.85;">
+                                        Бидний зорилго:
+                                    </p>
+                                    <ul class="text-5 text-color-dark ps-3 mb-0"
+                                        style="line-height: 1.85; list-style-type: disc;">
+                                        <li>Суралцагчдын онцгой чадварыг нээх</li>
+                                        <li>Амжилттай, утга учиртай амьдралд хүрэхэд дэмжих</li>
+                                        <li>Шинэлэг, өндөр чанартай боловсролыг хүргэх</li>
+                                        <li>Оролцоо, бүтээлч байдал, шилдэг чанарыг хөгжүүлэх</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Vision Card -->
+                        <div class="col-md-6">
+                            <div class="card h-100 shadow border-0 rounded-4 bg-white">
+                                <div class="card-body p-4">
+                                    <div class="d-flex align-items-center mb-3">
+                                        <span class="bg-secondary bg-opacity-10 text-secondary rounded-circle p-3 me-3">
+                                            <i class="fas fa-eye fa-2x"></i>
+                                        </span>
+                                        <h3 class="mb-0 fw-bold fs-4 text-color-primary">Бидний алсын хараа</h3>
+                                    </div>
+                                    <p class="text-5 text-color-dark mb-3" style="line-height: 1.85;">
+                                        Бид дэлхий даяар:
+                                    </p>
+                                    <ul class="text-5 text-color-dark ps-3 mb-0"
+                                        style="line-height: 1.85; list-style-type: disc;">
+                                        <li>Эерэг нөлөө үзүүлэх</li>
+                                        <li>Хувь хүнийг өөрчлөх боловсролын чиглэлээр манлайлагч болох</li>
+                                        <li>Шинэчлэлийг урамшуулж, манлайллыг төлөвшүүлэх</li>
+                                        <li>Насан туршийн суралцахуйг дэмжих</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
-                        <a href="{{ url('/courses') }}" class="btn btn-gradient-primary btn-px-6 btn-py-4 fw-bold"
-                            style="font-size: 1.25rem; border-radius: 50px; box-shadow: 0 8px 25px rgba(0,123,255,0.4); transition: all 0.25s ease;">
-                            Одоо эхлэх хамгийн тохиромжтой.
+                    <!-- Contact Button -->
+                    <div class="text-center mt-5">
+                        <a href="{{ url('/contact') }}" class="btn btn-primary btn-lg px-5 shadow fw-bold">
+                            <i class="fas fa-envelope me-2"></i>Бидэнтэй холбогдох
                         </a>
                     </div>
                 </div>
             </div>
         </section>
+
+        @push('styles')
+            <style>
+                .card .fa-bullseye,
+                .card .fa-eye {
+                    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.08));
+                }
+            </style>
+        @endpush
 
     </main>
 @endsection

@@ -561,7 +561,7 @@
 											<span class="opacity-3 d-inline-block px-2">|</span>
 											3 Comments
 											<span class="opacity-3 d-inline-block px-2">|</span>
-											John Doe
+											Б. Отгонжаргал
 										</p>
 										<div class="card-body p-0">
 											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a

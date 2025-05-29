@@ -4,7 +4,7 @@
 			<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
 
 				<a href="demo-education.html" class="d-inline-block mb-3">
-					<img alt="Porto" width="115" height="30" src="img/demos/education/logo-footer.png">
+					<img alt="Porto" width="100" height="100" src="img/demos/education/logo-footer.png">
 				</a>
 
 				<ul class="social-icons social-icons-clean social-icons-icon-light">
