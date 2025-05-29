@@ -671,12 +671,11 @@
 					</div>
 				</div>
 			</section>
-			<section class="section section-background custom-section-background-1 bg-color-light border-0 m-0" style="background-image: url(img/demos/education/backgrounds/background-2.jpg); 
-					background-position: center; 
-		            background-repeat: no-repeat; 
-					background-size: cover;
-					border: 4px solid #ccc; 
-					border-radius: 8px;">
+			<section class="section section-background custom-section-background bg-color-light border-0 m-0" style="background-image: url(img/demos/education/backgrounds/background-2.jpg); 
+						background-position: center;  
+						background-size: cover;
+						border: 4px solid #ccc; 
+						border-radius: 8px;">
 				<div class="custom-element custom-element-pos-3 appear-animation" data-appear-animation="expandIn"
 					data-appear-animation-delay="200">
 					<div class="opacity-2" data-plugin-float-element
@@ -706,7 +705,7 @@
 										</div>
 										<p class="text-3-5 line-height-9 mb-5 appear-animation"
 											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100"
-											style="color: #8A0000FF">
+											style="color: #FFFFFFFF; background-color: #B14747FF;">
 											Үүсгэн байгуулагдсанаасаа хойш одоог
 											хүртэл давтагдсан тоогоор 6000 гаруй
 											сурагчдыг хятад хэл сурч, хүссэн оноогоо
@@ -734,7 +733,7 @@
 										</div>
 										<p class="text-3-5 line-height-9 mb-5 appear-animation"
 											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="200"
-											style="color: #840000FF";>
+											style="color: #FFFFFFFF; background-color: #BF5555FF;" ;>
 											Сургалтын үйл ажиллагаа нь урт болон
 											богино хугацааны суурьгүй анхан шатаас
 											HSK 6 түвшин хүртэлх оноо амласан
@@ -760,7 +759,7 @@
 										</div>
 										<p class="text-3-5 line-height-9 mb-0 appear-animation"
 											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="300"
-											style="color: #900000FF;">
+											style="color: #FFFFFFFF; background-color: #B65A5AFF;">
 											Их дээд сургууль төгссөн, мэргэжлийн багш,
 											сурган хүмүүжүүлэгч нараас бүрдсэн хамт
 											олноор багаа бүрдүүлсэн, туршлагатай хамт
