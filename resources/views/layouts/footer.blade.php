@@ -19,69 +19,69 @@
 					</li>
 				</ul>
 
-				<p class="text-3 mt-4 mb-0 line-height-8 text-color-tertiary opacity-6">Porto Education. ©
-					2025.<br> All Rights Reserved</p>
+				<p class="text-3 mt-4 mb-0 line-height-8 text-color-tertiary opacity-6">Hanz Education. ©
+					2025<br> All Rights Reserved</p>
 
 			</div>
 			<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
-				<h4 class="font-weight-bold text-5">About Us</h4>
+				<h4 class="font-weight-bold text-5">Бидний тухай</h4>
 				<ul class="list list-unstyled text-color-tertiary opacity-6">
 					<li class="mb-1">
-						Porto Education
+						Ханз Education
 					</li>
 					<li class="mb-1">
-						123 Porto Blvd, Suite 100
+						Chingeltei 3
 					</li>
 					<li class="mb-1">
-						New York, NY
+						Ulaanbaatar, Mongolia
 					</li>
 					<li class="mb-1">
-						Phone: <a href="tel:1234567890"
-							class="text-decoration-none text-color-tertiary text-color-hover-primary">123-456-7890</a>
+						Утас: <a href="tel:1234567890"
+							class="text-decoration-none text-color-tertiary text-color-hover-primary">(+976) 95163664</a>
 					</li>
 					<li>
 						Email: <a href="mailto:email@domain.com"
-							class="text-decoration-none text-color-tertiary text-color-hover-primary">porto@domain.com</a>
+							class="text-decoration-none text-color-tertiary text-color-hover-primary">Ханз@domain.com</a>
 					</li>
 				</ul>
 			</div>
 			<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
-				<h4 class="font-weight-bold text-5">Navigation</h4>
+				<h4 class="font-weight-bold text-5">Хуудасууд</h4>
 				<ul class="list list-unstyled opacity-6">
 					<li class="mb-1">
 						<a href="demo-education.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Home</a>
+							Нүүр хуудас</a>
 					</li>
 					<li class="mb-1">
 						<a href="demo-education-about-us.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							About Us</a>
+							Бидний тухай</a>
 					</li>
 					<li class="mb-1">
 						<a href="demo-education-courses.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Courses</a>
+							Хичээлүүд</a>
 					</li>
 					<li class="mb-1">
 						<a href="demo-education-instructors.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Instructors</a>
+							Хамт олон</a>
 					</li>
 					<li class="mb-1">
 						<a href="demo-education-blog.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Blog</a>
+							Блог</a>
 					</li>
 					<li>
 						<a href="demo-education-contact-us.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Contact Us</a>
+							Холбоо барих</a>
 					</li>
 				</ul>
 			</div>
 			<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
-				<h4 class="font-weight-bold text-5">Support</h4>
+				<h4 class="font-weight-bold text-5">Дэмжлэг</h4>
 				<ul class="list list-unstyled opacity-6">
 					<li class="mb-1">
 						<a href="demo-education.html"
@@ -91,12 +91,12 @@
 					<li class="mb-1">
 						<a href="demo-education.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Forums</a>
+							Форум</a>
 					</li>
 					<li class="mb-1">
 						<a href="demo-education.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Open a Ticket</a>
+							Захиа</a>
 					</li>
 					<li>
 						<a href="demo-education.html"
@@ -106,17 +106,17 @@
 				</ul>
 			</div>
 			<div class="col-md-4 col-lg-2 mb-4 mb-lg-0">
-				<h4 class="font-weight-bold text-5">More</h4>
+				<h4 class="font-weight-bold text-5">Илүү цэс</h4>
 				<ul class="list list-unstyled opacity-6">
 					<li class="mb-1">
 						<a href="demo-education.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Terms of Use</a>
+							Дүрэм журам</a>
 					</li>
 					<li>
 						<a href="demo-education.html"
 							class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">-
-							Privacy Policy</a>
+							Нууцлалын мэдээлэл</a>
 					</li>
 				</ul>
 			</div>
