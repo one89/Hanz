@@ -8,7 +8,7 @@
 						<div class="header-row">
 							<ul class="list list-unstyled list-inline mb-0">
 								<li class="list-inline-item text-color-dark me-md-4 mb-0 d-none d-md-inline-block">
-									<span class="text-color-default text-2">Асуулт байна уу?</span>
+									<span class="text-color-default text-2">Асуулт байвал залга!</span>
 								</li>
 								<li class="list-inline-item me-4 mb-0">
 									<i
@@ -68,28 +68,27 @@
 
 									<ul class="nav nav-pills" id="mainNav">
 										<li>
-											<a href="/" class="nav-link {{ Request::is('/') ? 'active' : '' }}">Home</a>
+											<a href="/" class="nav-link {{ Request::is('/') ? 'active' : '' }} text-color-hover-primary">Нүүр хуудас</a>
 										</li>
 										<li>
 											<a href="{{ url('/about-us') }}"
-												class="nav-link {{ Request::is('about-us') ? 'active' : '' }}">About
-												Us</a>
+												class="nav-link {{ Request::is('about-us') ? 'active' : '' }} text-color-hover-primary text-color-white">Бидний тухай</a>
 										</li>
 										<li>
 											<a href="{{ url('/courses') }}"
-												class="nav-link {{ Request::is('courses') ? 'active' : '' }}">Courses</a>
+												class="nav-link  text-color-white{{ Request::is('courses') ? 'active' : '' }} text-color-hover-primary text-color-white">Хичээл</a>
 										</li>
 										<li>
 											<a href="{{ url('/instructors') }}"
-												class="nav-link {{ Request::is('instructors') ? 'active' : '' }}">Instructors</a>
+												class="nav-link {{ Request::is('instructors') ? 'active' : '' }} text-color-hover-primary">Хамт олон</a>
 										</li>
 										<li>
 											<a href="{{ url('/blog') }}"
-												class="nav-link {{ Request::is('blog') ? 'active' : '' }}">Blog</a>
+												class="nav-link {{ Request::is('blog') ? 'active' : '' }} text-color-hover-primary">Блог</a>
 										</li>
 										<li>
 											<a href="{{ url('/contact') }}"
-												class="nav-link {{ Request::is('contact') ? 'active' : '' }}">Contact</a>
+												class="nav-link {{ Request::is('contact') ? 'active' : '' }} text-color-hover-primary">Холбогдох</a>
 										</li>
 									</ul>
 								</nav>

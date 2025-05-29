@@ -11,7 +11,7 @@
 					<div class="container">
 						<div class="row mt-5">
 							<div class="col align-self-center p-static text-center">
-								<h1 class="font-weight-bold text-color-secondary text-10">Instructors</h1>
+								<h1 class=" text-color-darkwhite text-10 font-weight-semibold">Манай хамт олон</h1>
 							</div>
 						</div>
 					</div>
@@ -44,15 +44,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Full Name</p>
-																<h4 class="mb-0 text-color-secondary text-6">John Doe</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Нэр</p>
+																<h4 class="mb-0 text-color-secondary text-6">Б.Отгонжаргал</h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Available Courses</p>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Хичээл тоо</p>
 																<h4 class="mb-0 text-color-secondary text-3">12</h4>
 															</div>
 														</div>
@@ -60,15 +60,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 flex-grow-1">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Average Rating</p>
-																<h4 class="mb-0 text-color-secondary text-3">4.75</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3"></p>
+																<h4 class="mb-0 text-color-secondary text-3"></h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-4">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<a href="#" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">VIEW COURSES</a>
+																<a href="/courses" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">ХИЧЭЭЛ ҮЗЭХ</a>
 															</div>
 														</div>
 													</div>
@@ -106,15 +106,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Full Name</p>
-																<h4 class="mb-0 text-color-secondary text-6">Janice Doe</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Нэр</p>
+																<h4 class="mb-0 text-color-secondary text-6">М.Мөнхцэцэг</h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Available Courses</p>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Хичээл тоо</p>
 																<h4 class="mb-0 text-color-secondary text-3">12</h4>
 															</div>
 														</div>
@@ -122,15 +122,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 flex-grow-1">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Average Rating</p>
-																<h4 class="mb-0 text-color-secondary text-3">4.75</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3"></p>
+																<h4 class="mb-0 text-color-secondary text-3"></h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-4">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<a href="#" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">VIEW COURSES</a>
+																<a href="/courses" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">ХИЧЭЭЛ ҮЗЭХ</a>
 															</div>
 														</div>
 													</div>
@@ -168,15 +168,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Full Name</p>
-																<h4 class="mb-0 text-color-secondary text-6">Robert Doe</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Нэр</p>
+																<h4 class="mb-0 text-color-secondary text-6">Б.Ариунхишиг</h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Available Courses</p>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Хичээл тоо</p>
 																<h4 class="mb-0 text-color-secondary text-3">12</h4>
 															</div>
 														</div>
@@ -184,15 +184,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 flex-grow-1">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Average Rating</p>
-																<h4 class="mb-0 text-color-secondary text-3">4.75</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3"></p>
+																<h4 class="mb-0 text-color-secondary text-3"></h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-4">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<a href="#" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">VIEW COURSES</a>
+																<a href="/courses" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">ХИЧЭЭЛ ҮЗЭХ</a>
 															</div>
 														</div>
 													</div>
@@ -230,15 +230,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Full Name</p>
-																<h4 class="mb-0 text-color-secondary text-6">Alice Doe</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Нэр</p>
+																<h4 class="mb-0 text-color-secondary text-6">Э.Мөнхдолгор</h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Available Courses</p>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Хичээл тоо</p>
 																<h4 class="mb-0 text-color-secondary text-3">12</h4>
 															</div>
 														</div>
@@ -246,15 +246,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 flex-grow-1">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Average Rating</p>
-																<h4 class="mb-0 text-color-secondary text-3">4.75</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3"></p>
+																<h4 class="mb-0 text-color-secondary text-3"></h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-4">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<a href="#" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">VIEW COURSES</a>
+																<a href="/courses" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">ХИЧЭЭЛ ҮЗЭХ</a>
 															</div>
 														</div>
 													</div>
@@ -300,7 +300,7 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 border-right">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Available Courses</p>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3">Хичээл тоо</p>
 																<h4 class="mb-0 text-color-secondary text-3">12</h4>
 															</div>
 														</div>
@@ -308,15 +308,15 @@
 													<div class="ps-md-0 mb-3 mb-md-0 pe-4 me-4 flex-grow-1">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<p class="mb-0 text-1 text-uppercase p-relative top-3">Average Rating</p>
-																<h4 class="mb-0 text-color-secondary text-3">4.75</h4>
+																<p class="mb-0 text-1 text-uppercase p-relative top-3"></p>
+																<h4 class="mb-0 text-color-secondary text-3"></h4>
 															</div>
 														</div>
 													</div>
 													<div class="ps-md-4">
 														<div class="d-flex flex-row align-items-center h-100">
 															<div class="p-0">
-																<a href="#" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">VIEW COURSES</a>
+																<a href="/courses" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3">ХИЧЭЭЛ ҮЗЭХ</a>
 															</div>
 														</div>
 													</div>
@@ -344,17 +344,7 @@
 									</div>
 								</div>
 
-								<div class="row">
-									<div class="col">
-										<ul class="pagination float-end p-relative bottom-2">
-											<li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-left"></i></a></li>
-											<li class="page-item active"><a class="page-link" href="#">1</a></li>
-											<li class="page-item"><a class="page-link" href="#">2</a></li>
-											<li class="page-item"><a class="page-link" href="#">3</a></li>
-											<li class="page-item"><a class="page-link" href="#"><i class="fas fa-angle-right"></i></a></li>
-										</ul>
-									</div>
-								</div>
+								
 							</div>
 						</div>
 					</div>
@@ -364,10 +354,10 @@
 					<div class="container py-3">
 						<div class="row align-items-center justify-content-center text-center text-lg-start">
 							<div class="col-md-8 col-lg-9 mb-4 mb-lg-0">
-								<h2 class="text-color-primary font-weight-bold mb-0 appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="150">Ready to kick-start your career?</h2>
+								<h2 class="text-color-primary font-weight-bold mb-0 appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="150">Карьераа эхлүүлэхэд бэлэн үү?</h2>
 							</div>
 							<div class="col-lg-3 text-lg-end">
-								<a href="demo-education-courses.html" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 mt-4 mb-2 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="350">GET STARTED NOW</a>
+								<a href="/courses" class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 mt-4 mb-2 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="350">Тэгье!</a>
 							</div>
 						</div>
 					</div>
@@ -396,26 +386,26 @@
 								</li>
 							</ul>
 
-							<p class="text-3 mt-4 mb-0 line-height-8 text-color-tertiary opacity-6">Porto Education. © 2025.<br> All Rights Reserved</p>
+							<p class="text-3 mt-4 mb-0 line-height-8 text-color-tertiary opacity-6">Hanz Education. © 2025.<br> All Rights Reserved</p>
 
 						</div>
 						<div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
-							<h4 class="font-weight-bold text-5">About Us</h4>
+							<h4 class="font-weight-bold text-5">Бидний тухай</h4>
 							<ul class="list list-unstyled text-color-tertiary opacity-6">
 								<li class="mb-1">
-									Porto Education
+									Hanz Education
 								</li>
 								<li class="mb-1">
-									123 Porto Blvd, Suite 100
+									Khan-Uul
 								</li>
 								<li class="mb-1">
-									New York, NY
+									Ulaanbaatar, Mongolia
 								</li>
 								<li class="mb-1">
-									Phone: <a href="tel:1234567890" class="text-decoration-none text-color-tertiary text-color-hover-primary">123-456-7890</a>
+									Phone: <a href="tel:1234567890" class="text-decoration-none text-color-tertiary text-color-hover-primary">99119911</a>
 								</li>
 								<li>
-									Email: <a href="mailto:email@domain.com" class="text-decoration-none text-color-tertiary text-color-hover-primary">porto@domain.com</a>
+									Email: <a href="mailto:email@domain.com" class="text-decoration-none text-color-tertiary text-color-hover-primary">hanzacademy1@gmail.com</a>
 								</li>
 							</ul>
 						</div>
@@ -423,22 +413,22 @@
 							<h4 class="font-weight-bold text-5">Navigation</h4>
 							<ul class="list list-unstyled opacity-6">
 								<li class="mb-1">
-									<a href="demo-education.html" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Home</a>
+									<a href="/" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Home</a>
 								</li>
 								<li class="mb-1">
-									<a href="demo-education-about-us.html" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- About Us</a>
+									<a href="/about-us" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- About Us</a>
 								</li>
 								<li class="mb-1">
-									<a href="demo-education-courses.html" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Courses</a>
+									<a href="/courses" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Courses</a>
 								</li>
 								<li class="mb-1">
-									<a href="demo-education-instructors.html" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Instructors</a>
+									<a href="/instructors" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Instructors</a>
 								</li>
 								<li class="mb-1">
-									<a href="demo-education-blog.html" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Blog</a>
+									<a href="/blog" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Blog</a>
 								</li>
 								<li>
-									<a href="demo-education-contact-us.html" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Contact Us</a>
+									<a href="/contact" class="text-decoration-none text-color-tertiary text-color-hover-primary link-hover-style-1">- Contact Us</a>
 								</li>
 							</ul>
 						</div>
