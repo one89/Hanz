@@ -35,8 +35,8 @@
 											<div class="text-start custom-slider-text-block">
 												<h2 class="text-color-secondary font-weight-extra-bold mb-1 custom-slider-text-1 p-relative z-index-1 appear-animation"
 													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="500">Мэдлэгийн
-													<hr>төв
+													data-appear-animation-delay="500">Академи
+													<hr>
 												</h2>
 
 												<h2 class="font-weight-semi-bold mb-3 text-5 p-relative z-index-1 appear-animation"
@@ -46,7 +46,7 @@
 												<a href="#courses" data-hash data-hash-offset="0" data-hash-offset-lg="70"
 													class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 appear-animation"
 													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="1200">Өсөлтийн зам эхэллээ!</a>
+													data-appear-animation-delay="1200">Ирээдүйг бүтээх алхам</a>
 											</div>
 										</div>
 									</div>
@@ -66,7 +66,7 @@
 
 								<img src="img/demos/education/slides/slide-2-1.png"
 									class="img-fluid position-absolute bottom-0 d-none d-lg-block custom-slider-el-2 appear-animation"
-									style="width: 400px; border: 4px solid #333; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"
+									style="width: 350px; border: 4px solid #333; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.3);"
 									data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600" alt="" />
 
 								<div class="container h-100 r-relative z-index-1">
@@ -80,12 +80,12 @@
 												</h2>
 												<h2 class="font-weight-semi-bold mb-3 text-5 p-relative z-index-1 appear-animation"
 													style="color: white" data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="1000">Таны боловсролын хэрэгцээндзориулсан
+													data-appear-animation-delay="1000">Таны боловсролын хэрэгцээнд зориулсан
 													иж бүрэн шийдэл!</h2>
 												<a href="#courses" data-hash data-hash-offset="0" data-hash-offset-lg="70"
 													class="btn btn-secondary font-weight-bold btn-px-5 btn-py-3 appear-animation"
 													data-appear-animation="fadeInUpShorter"
-													data-appear-animation-delay="1200">Өсөлтийн зам эхэллээ!</a>
+													data-appear-animation-delay="1200">Бид хөгжлийн дараагийн шатанд!</a>
 											</div>
 										</div>
 									</div>
@@ -120,7 +120,7 @@
 								<div class="feature-box-info appear-animation" data-appear-animation="fadeInLeftShorterPlus"
 									data-appear-animation-delay="150">
 									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Алхам 1</p>
-									<h4 class="mb-0 text-color-secondary">Өөрийнхөө хөтөлбөрийг ол.</h4>
+									<h4 class="mb-0 text-color-secondary">Амжилтад хүрэх хөтөлбөрөө сонго.</h4>
 								</div>
 							</div>
 
@@ -141,7 +141,7 @@
 								<div class="feature-box-info appear-animation" data-appear-animation="fadeInLeftShorterPlus"
 									data-appear-animation-delay="300">
 									<p class="mt-2 pt-1 mb-0 text-1 p-relative top-5 text-uppercase">Алхам 2</p>
-									<h4 class="mb-0 text-color-secondary">Бүртгэл хийх.</h4>
+									<h4 class="mb-0 text-color-secondary">Бүртгүүлэх.</h4>
 								</div>
 							</div>
 
@@ -214,7 +214,7 @@
 											</div>
 										</div>
 										<div class="card-body">
-											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+											<p class="mb-0 text-1 p-relative top-5 text-uppercase">Б. Отгонжаргал</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
 													title="">анхан шат</a></h4>
@@ -223,7 +223,7 @@
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
 													123 </span>
 												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-comments"></i> 123</span>
+														class="far text-primary fa-comments"></i>23</span>
 											</div>
 										</div>
 									</div>
@@ -243,7 +243,7 @@
 											</div>
 										</div>
 										<div class="card-body">
-											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+											<p class="mb-0 text-1 p-relative top-5 text-uppercase">М. Мөнхцэцэг</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
 													title="">анхан дунд шат</a></h4>
@@ -252,7 +252,7 @@
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
 													123 </span>
 												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-comments"></i> 123</span>
+														class="far text-primary fa-comments"></i> 23</span>
 											</div>
 										</div>
 									</div>
@@ -272,7 +272,7 @@
 											</div>
 										</div>
 										<div class="card-body">
-											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+											<p class="mb-0 text-1 p-relative top-5 text-uppercase">Б. Ариунхишиг</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
 													title="">дунд шат</a></h4>
@@ -281,7 +281,7 @@
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
 													123 </span>
 												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-comments"></i> 123</span>
+														class="far text-primary fa-comments"></i> 13</span>
 											</div>
 										</div>
 									</div>
@@ -301,7 +301,7 @@
 											</div>
 										</div>
 										<div class="card-body">
-											<p class="mb-0 text-1 p-relative top-5 text-uppercase">John Doe</p>
+											<p class="mb-0 text-1 p-relative top-5 text-uppercase">Э. Мөнхдолгор</p>
 											<h4 class="mb-3 text-color-secondary"><a
 													href="demo-education-courses-details.html" class="text-color-secondary"
 													title="">дунд ахисан шат</a></h4>
@@ -310,7 +310,7 @@
 												<span class="d-inline-block pe-2"><i class="far text-primary fa-user"></i>
 													123 </span>
 												<span class="d-inline-block pe-2"><i
-														class="far text-primary fa-comments"></i> 123</span>
+														class="far text-primary fa-comments"></i> 31</span>
 											</div>
 										</div>
 									</div>
@@ -458,7 +458,7 @@
 												баян соёлыг илүү гүнзгий үнэлдэг болсон.</p>
 										</blockquote>
 										<div class="testimonial-author">
-											<p><strong class="font-weight-bold">John Smith</strong></p>
+											<p><strong class="font-weight-bold">Бат-Эрдэнэ</strong></p>
 										</div>
 									</div>
 								</div>
@@ -481,7 +481,7 @@
 												сайн бэлтгэл болсон гэж бодож байна.</p>
 										</blockquote>
 										<div class="testimonial-author">
-											<p><strong class="font-weight-bold">John Smith</strong></p>
+											<p><strong class="font-weight-bold">Тэмүүжин</strong></p>
 										</div>
 									</div>
 								</div>
@@ -503,7 +503,7 @@
 												үнэлэхийг холбосон баялаг туршлага болсон.</p>
 										</blockquote>
 										<div class="testimonial-author">
-											<p><strong class="font-weight-bold">John Smith</strong></p>
+											<p><strong class="font-weight-bold">Дөлгөөн</strong></p>
 										</div>
 									</div>
 								</div>
@@ -525,7 +525,7 @@
 												болсон.</p>
 										</blockquote>
 										<div class="testimonial-author">
-											<p><strong class="font-weight-bold">John Smith</strong></p>
+											<p><strong class="font-weight-bold">Хүслэн</strong></p>
 										</div>
 									</div>
 								</div>
@@ -581,8 +581,8 @@
 												гаруй оюутантай.
 												Та элсэлтийн дэлгэрэнгүй мэдээллийг доорх утас болон хаягуудаас аваарай</p>
 											<a href="demo-education-blog-post.html"
-												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">READ
-												MORE</a>
+												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">Дэлгэрэнгүй
+												унших</a>
 										</div>
 									</div>
 								</div>
@@ -598,11 +598,11 @@
 												src="img/demos/education/blog/blog-2.jpg" alt="Card Image">
 										</a>
 										<p class="text-uppercase text-color-default text-1 my-2">
-											<time pubdate datetime="2025-01-10">10 Jan 2025</time>
+											<time pubdate datetime="2025-01-10">2025-7-2</time>
 											<span class="opacity-3 d-inline-block px-2">|</span>
-											3 Comments
+											сэтгэгдлүүд
 											<span class="opacity-3 d-inline-block px-2">|</span>
-											John Doe
+											Б. Отгонжаргал
 										</p>
 										<div class="card-body p-0">
 											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a
@@ -610,18 +610,14 @@
 													href="demo-education-blog-post.html">ХЭЛНИЙ БЭЛТГЭЛИЙН ТЭТГЭЛЭГ
 													ЗАРЛАГДЛАА🥳</a>
 											</h4>
-											<p class="card-text mb-2">📍Бээжинд байрладаг, Бээжин хотын боловсролын комиссын
-												харьяанд байдаг улсын их сургууль юм. Өмнө нь Бээжингийн Эдийн засгийн их
-												сургууль, Бээжингийн Санхүү, Худалдааны Их Сургууль гэж нэрлэгддэг байсан
-												бөгөөд 1995 онд нэгдэж, Нийслэлийн Эдийн засаг, Бизнесийн Их Сургууль
-												болжээ. Одоогийн байдлаар уг сургууль нь Бээжин дэх гол их сургууль болсон
-												бөгөөд 2 том кампустай.
-												📍Мэргэжлийн магистрын 18 хөтөлбөр, 1800 гаруй багш, түүний дотор 1000 гаруй
-												бүрэн цагийн багш, 16,784 оюутантай, үүнээс 11,522 бакалавр, 4,482 магистр,
-												646 докторын оюутан, 91 олон улсын оюутантай. </p>
+											<p class="card-text mb-2">📍Бээжинд байрладаг улсын их сургууль бөгөөд Бээжин
+												хотын боловсролын комиссын харьяа. 1995 онд Бээжингийн Эдийн засгийн болон
+												Санхүү, Худалдааны их сургуулиуд нэгдэж байгуулагдсан. Одоогоор 2 кампустай,
+												16,000+ оюутантай, үүнээс 11,000 гаруй нь бакалавр, 4,000+ нь магистр. Мөн
+												18 магистрын хөтөлбөр, 1000+ бүрэн цагийн багштай. </p>
 											<a href="demo-education-blog-post.html"
-												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">READ
-												MORE</a>
+												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">Дэлгэрэнгүй
+												унших</a>
 										</div>
 									</div>
 								</div>
@@ -637,39 +633,35 @@
 												src="img/demos/education/blog/blog-3.jpg" alt="Card Image">
 										</a>
 										<p class="text-uppercase text-color-default text-1 my-2">
-											<time pubdate datetime="2025-01-10">10 Jan 2025</time>
+											<time pubdate datetime="2025-01-10">2025-7-2</time>
 											<span class="opacity-3 d-inline-block px-2">|</span>
-											3 Comments
+											сэтгэгдлүүд
 											<span class="opacity-3 d-inline-block px-2">|</span>
-											John Doe
+											Б. Отгонжаргал
 										</p>
 										<div class="card-body p-0">
 											<h4 class="card-title text-5 font-weight-semi-bold pb-1 mb-2"><a
 													class="text-color-secondary text-decoration-none"
-													href="demo-education-blog-post.html">богино_хугацааны_эрчимжүүлсэн_сургалт</a>
+													href="demo-education-blog-post.html">богино хугацааны эрчимжүүлсэн
+													сургалт</a>
 											</h4>
-											<p class="card-text mb-2"> ⌛️БҮРТГЭЛИЙН ХУГАЦАА 2025.05.30 ХҮРТЭЛ ⌛️
-												14 хоногийн хугацаанд хятад хэлийг орчинд нь суралцангаа хоттой танилцах,
-												аялах боломжийг танд олгож байна.
-												14 хоногийн хөтөлбөрт:
-												✨СУРГАЛТЫН ТӨЛБӨР
-												✨ДОТУУР БАЙР
-												✨ЗАМЫН ЗАРДАЛ
-												✨АЯЛЛЫН ҮЗВЭР ҮЙЛЧИЛГЭЭНИЙ ТӨЛБӨР зэрэг багтсан
-												ДАВУУ ТАЛ:
-												⚡️АЮУЛГҮЙ БАТАЛГААТАЙ
-												⚡️10 ЖИЛИЙН ТУРШЛАГАТАЙ
-												⚡️ ХЯТАД БАГШ НАР ЗААНА
-												⚡️ХОТЫН ТӨВД БАЙРЛАЛТАЙ
-												⚡️13-60 НАС /ГЭР БҮЛЭЭРЭЭ ЯВЖ БОЛНО/
-												⚡️АЯЛЛЫН ХӨТӨЧТЭЙ
-												⚡️АНГИ ХАМТ ОЛНООРОО АЯЛАХ БОЛОМЖТОЙ
-												Хөтөлбөр үргэлжлэх хугацаа: 2025/07/20-2025/08/02
-												✅Хятад улсад суралцах хүсэлтэй сурахаар зорьж буй хүн бүхэн дэлгэрэнгүй
-												мэдээлэл зөвлөгөө авах боломжтой.</p>
+											<p class="card-text mb-2"> 14 хоногийн хятад хэлний курс, хоттой танилцах аялал
+												багтсан.
+												Багтсан үйлчилгээ: сургалтын төлбөр, дотуур байр, замын зардал, аяллын
+												үйлчилгээ.
+												Давуу тал:
+												Аюулгүй, баталгаатай
+												10 жилийн туршлагатай
+												Хятад багш нар заана
+												Хотын төвд байрлалтай
+												13-60 насны оролцогчид, гэр бүлээрээ ирж болно
+												Аяллын хөтөчтэй
+												Анги хамт олноор аялах боломжтой
+												Хугацаа: 2025/07/20 – 2025/08/02
+												Хятад улсад суралцах хүсэлтэй хүнд дэлгэрэнгүй мэдээлэл авах боломжтой.</p>
 											<a href="demo-education-blog-post.html"
-												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">READ
-												MORE</a>
+												class="btn btn-link font-weight-semibold text-decoration-none text-2 ps-0">Дэлгэрэнгүй
+												унших</a>
 										</div>
 									</div>
 								</div>
@@ -679,12 +671,12 @@
 					</div>
 				</div>
 			</section>
-			<section class="section section-background custom-section-background-2 bg-color-light border-0 m-0" style="background-image: url(img/demos/education/backgrounds/background-2.jpg); 
-									background-position: center; 
-									background-repeat: no-repeat; 
-									background-size: cover;
-									border: 4px solid #ccc; 
-									border-radius: 8px;">
+			<section class="section section-background custom-section-background-1 bg-color-light border-0 m-0" style="background-image: url(img/demos/education/backgrounds/background-2.jpg); 
+					background-position: center; 
+		            background-repeat: no-repeat; 
+					background-size: cover;
+					border: 4px solid #ccc; 
+					border-radius: 8px;">
 				<div class="custom-element custom-element-pos-3 appear-animation" data-appear-animation="expandIn"
 					data-appear-animation-delay="200">
 					<div class="opacity-2" data-plugin-float-element
@@ -710,13 +702,17 @@
 										<div class="overflow-hidden">
 											<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
 												data-appear-animation="maskUp" data-appear-animation-delay="100">
-												National Awards</h2>
+												Улсын шагнал</h2>
 										</div>
 										<p class="text-3-5 line-height-9 mb-5 appear-animation"
-											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100">
-											Lorem ipsum dolor sit amet,
-											consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
-											fermentum consectetur adipiscing elit.</p>
+											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="100"
+											style="color: #8A0000FF">
+											Үүсгэн байгуулагдсанаасаа хойш одоог
+											хүртэл давтагдсан тоогоор 6000 гаруй
+											сурагчдыг хятад хэл сурч, хүссэн оноогоо
+											авч тэтгэлэгт хамрагдан БНХАУ-д
+											амжилттай суралцаж байна.
+										</p>
 									</div>
 								</div>
 							</div>
@@ -734,13 +730,15 @@
 										<div class="overflow-hidden">
 											<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
 												data-appear-animation="maskUp" data-appear-animation-delay="200">
-												Many Courses</h2>
+												Сургалт</h2>
 										</div>
 										<p class="text-3-5 line-height-9 mb-5 appear-animation"
-											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="200">
-											Lorem ipsum dolor sit amet,
-											consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
-											fermentum consectetur adipiscing elit.</p>
+											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="200"
+											style="color: #840000FF";>
+											Сургалтын үйл ажиллагаа нь урт болон
+											богино хугацааны суурьгүй анхан шатаас
+											HSK 6 түвшин хүртэлх оноо амласан
+											сургалт явуулаад 10-н жил болж байна.</p>
 									</div>
 								</div>
 							</div>
@@ -758,13 +756,16 @@
 										<div class="overflow-hidden">
 											<h2 class="text-color-secondary font-weight-semi-bold text-6 line-height-1 mb-2 pb-1 appear-animation"
 												data-appear-animation="maskUp" data-appear-animation-delay="300">The
-												Best Instructors</h2>
+												Тэргүүн багш нар</h2>
 										</div>
 										<p class="text-3-5 line-height-9 mb-0 appear-animation"
-											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="300">
-											Lorem ipsum dolor sit amet,
-											consectetur adipiscing elit. Suspendisse quis elit vitae enim vehicula
-											fermentum consectetur adipiscing elit. </p>
+											data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="300"
+											style="color: #900000FF;">
+											Их дээд сургууль төгссөн, мэргэжлийн багш,
+											сурган хүмүүжүүлэгч нараас бүрдсэн хамт
+											олноор багаа бүрдүүлсэн, туршлагатай хамт
+											олон.
+										</p>
 									</div>
 								</div>
 							</div>
